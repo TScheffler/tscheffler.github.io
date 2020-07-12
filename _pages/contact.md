@@ -6,7 +6,6 @@ redirect_from:
   - /contact_info
 ---
 
-{% include base_path %}
 
 Contact Info
 ======
