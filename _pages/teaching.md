@@ -10,19 +10,13 @@ author_profile: true
 <h2>Student projects offered</h2>
 
 I am always open to your suggestions for thesis or independent research topics related to
-  my research/teaching. Please contact me in person or by email!
+  my research/teaching. Please contact me in person or by email! I'm currently looking for students for topics relating to:
 
-I'm currently looking for students for topics relating to:
-  <ul>
-    <li>forensic linguistics</li>
-    <li>discourse structure of social media</li>
-    <li>computational social science</li>
-    <li>NLP for variability</li>
-    <li>... and others!</li>
-  </ul>
-  
-
-List of <a href="https://github.com/TScheffler/Teaching/blob/master/00_themen.md" >topic ideas here</a>!
+* forensic linguistics
+* discourse structure of social media
+* computational social science
+* NLP for variability
+* ... and [others](https://github.com/TScheffler/Teaching/blob/master/00_themen.md)!
   
 <a href="#supervision">jump to previous student supervision</a>
 
@@ -139,63 +133,42 @@ Models.</i> B.Sc., Uni Potsdam, 2019.
 Kerstin Klimek: <i>Automatic detection of high quality
 conversations on Twitter.</i> M.Sc., Uni Potsdam,
 2019.  
-Romy Leue: <i>Ironie on: Die Interpretation von Emojis im
-ironischen Diskurs im Instant Messenger WhatsApp.</i> B.Sc., Uni Potsdam, 2019.  
-Philipp Sadler: <i>Spatial Attention as an Interface for Image
-Captioning Models.</i> M.Sc., Uni Potsdam, 2019.  
-Hellen Siewert: <i>Konversationeller und argumentativer Chatbot zu
-veganer Ernährung.</i> B.Sc., Uni Potsdam, 2019.  
+Romy Leue: <i>Ironie on: Die Interpretation von Emojis im ironischen Diskurs im Instant Messenger WhatsApp.</i> B.Sc., Uni Potsdam, 2019.  
+Philipp Sadler: <i>Spatial Attention as an Interface for Image Captioning Models.</i> M.Sc., Uni Potsdam, 2019.  
+Hellen Siewert: <i>Konversationeller und argumentativer Chatbot zu veganer Ernährung.</i> B.Sc., Uni Potsdam, 2019.  
 
-Seo Yon Lee: <i>Adapting speech recognition to specific speech
-patterns of speakers with agrammatic aphasia.</i> M.Sc., Uni Potsdam,
-<b>2018</b>.  
+Seo Yon Lee: <i>Adapting speech recognition to specific speech patterns of speakers with agrammatic aphasia.</i> M.Sc., Uni Potsdam, <b>2018</b>.  
 Daniela Feinhals: <i>Hate Speech in deutschen und englischen Tweets.</i> B.Sc., Uni Potsdam,
 2018.  
-Rebecca Reglin: <i>Strategien beim Lügen.</i> B.Sc., Uni Potsdam,
-2018.  
+Rebecca Reglin: <i>Strategien beim Lügen.</i> B.Sc., Uni Potsdam, 2018.  
 Pia Weißenhorn: <i>Automatische Identifikation und Normalisierung von Zeitausdrücken in deutschsprachigen rechtlichen Texten.</i> B.Sc., Uni Potsdam,
 2018.  
-Antoine Laufer: <i>Untersuchung der Syntax und Semantik von Emojis
-anhand eines Twitter-Diskurses.</i> B.Sc., Uni
-Potsdam, 2018.  
+Antoine Laufer: <i>Untersuchung der Syntax und Semantik von Emojis anhand eines Twitter-Diskurses.</i> B.Sc., Uni Potsdam, 2018.  
 
 Anna Sopia Bolze: <i>Tendenz oder Negation? Welchen Beitrag liefert das expletive 'nicht' zur Bedeutung von biased questions des Deutschen?</i> B.Sc., Uni Potsdam, <b>2017</b>.  
-Sandra Müller: <i>Präpositionen als Konnektoren in medizinischen
-Texten.</i> B.Sc., Uni Potsdam, 2017.  
-Julia Grobe: <i>Ist das # im Wandel? Eine korpuslinguistische
-Untersuchung zur Entwicklung der Hashtag-Funktionsweise in Twitter</i> B.Sc., Uni Potsdam, 2017.  
+Sandra Müller: <i>Präpositionen als Konnektoren in medizinischen Texten.</i> B.Sc., Uni Potsdam, 2017.  
+Julia Grobe: <i>Ist das # im Wandel? Eine korpuslinguistische Untersuchung zur Entwicklung der Hashtag-Funktionsweise in Twitter</i> B.Sc., Uni Potsdam, 2017.  
 Anja Philipp: <i>Naive Sprecher und Experten bei der
 Dialogaktannotation in Twitterkonversationen</i> B.Sc., Uni Potsdam, 2017.  
 
-Lena Eisenacher: <i>Frageanhängsel an der Schnittstelle zwischen
-Pragmatik und Prosodie</i> B.Sc., Uni Potsdam, <b>2016</b>.  
+Lena Eisenacher: <i>Frageanhängsel an der Schnittstelle zwischen Pragmatik und Prosodie</i> B.Sc., Uni Potsdam, <b>2016</b>.  
 Anna Barthel: <i>Auf den Punkt gebracht. Neuartige Interpunktionsverwendung in mobilfunk- und internetbasierter Kommunikation? Eine Fallstudie anhand SMS und Twitter.</i> B.Sc., Uni Potsdam, 2016.  
 Maxi Drescher: <i>Spontansprache in Twitter-Konversationen am Beispiel von Frageanhängseln</i> B.Sc., Uni Potsdam, 2016.  
-Sophia Leontinowa: <i>Linguistische Variabilität und
-  Nicht-Standardsprache in Sozialen Medien: Vergleich von deutschen
-  Twitterdiskursen und Blogs.</i> B.Sc., Uni Potsdam, 2016.  
+Sophia Leontinowa: <i>Linguistische Variabilität und Nicht-Standardsprache in Sozialen Medien: Vergleich von deutschen Twitterdiskursen und Blogs.</i> B.Sc., Uni Potsdam, 2016.  
   
 Elena Zarisheva: <i>Dialog act recognition for Twitter
 conversations.</i> M.Sc., Hasso Plattner-Institute Potsdam, <b>2015</b>.  
 Laura Stelter: <i>Diskursfunktion von URLs in deutschen Twitterkonversationen.</i> B.Sc., Uni Potsdam, 2015.  
-Antonia Golz: <i>'Wohl ja' wird ja wohl auch gehen: Zur
-  Kombinationsfähigkeit von 'wohl' und 'ja'.</i> B.Sc., Uni Potsdam, 2015.  
+Antonia Golz: <i>'Wohl ja' wird ja wohl auch gehen: Zur  Kombinationsfähigkeit von 'wohl' und 'ja'.</i> B.Sc., Uni Potsdam, 2015.  
 Frank Bublitz: <i>Qualität von Twitterdiskursen.</i> Diplom (Master's Thesis), Uni Potsdam, <b>2014</b>.
-Norman Rosner: <i>Klassifikation von Themen in deutschen
-Twitter-Daten.</i> Diplom (Master's Thesis), Uni Potsdam, <b>2013</b>.  
-Benjamin Hoffmann: <i>Entwicklung und Evaluation eines multimodalen
-Empfehlungssystems für Lokationen.</i> B.Sc., FH Brandenburg, <b>2012</b>.  
+Norman Rosner: <i>Klassifikation von Themen in deutschen Twitter-Daten.</i> Diplom (Master's Thesis), Uni Potsdam, <b>2013</b>.  
+Benjamin Hoffmann: <i>Entwicklung und Evaluation eines multimodalen Empfehlungssystems für Lokationen.</i> B.Sc., FH Brandenburg, <b>2012</b>.  
 Paul Lehmann: <i>Matching und Visualisierung von Points of Interest aus sozialen Daten</i> B.Sc., FH Brandenburg, <b>2011</b>.  
-Jana G&ouml;tze: <i>Prototyping a User Simulation for a Spoken Dialog System.</i>
-  <i>Diplomarbeit</i> (Master's thesis), Uni Potsdam, <b>2010</b>.  
-Marco Bierbach: <i>Extraktion von Spracherkennergrammatiken aus
- einem Korpus.</i>
- Bachelor thesis, FH Brandenburg, 2010.  
+Jana G&ouml;tze: <i>Prototyping a User Simulation for a Spoken Dialog System.</i> <i>Diplomarbeit</i> (Master's thesis), Uni Potsdam, <b>2010</b>.  
+Marco Bierbach: <i>Extraktion von Spracherkennergrammatiken aus einem Korpus.</i> Bachelor thesis, FH Brandenburg, 2010.  
 Kira Eberle: <i>Extraktion von Ressourcen aus dem Korpus des Sprachdialogsystems
 Let's Go!</i> Bachelor thesis, Uni Potsdam, May 2010.  
-Katarina Birghan: <i>Inbetriebnahme, Konfigurierung und Evaluation des
-    Vorverarbeitungsmoduls zur Segmentierung von Dialogakten mittels
-Pausenerkennung.</i> Bachelor thesis, FH Brandenburg, May <b>2009</b>.
+Katarina Birghan: <i>Inbetriebnahme, Konfigurierung und Evaluation des Vorverarbeitungsmoduls zur Segmentierung von Dialogakten mittels Pausenerkennung.</i> Bachelor thesis, FH Brandenburg, May <b>2009</b>.
 
 ... plus several interns and student research assistants
 

@@ -11,7 +11,7 @@ author_profile: true
 
 {% endif %}
 
-Talks at peer-reviewed conferences/workshops with proceedings can be found in <a href="publications">Publications</a>
+Talks at peer-reviewed conferences/workshops with proceedings can be found in <a href="../publications">Publications</a>
 
 <h2>Invited talks</h3>
 
