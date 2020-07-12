@@ -13,7 +13,8 @@ author_profile: true
 
 Talks at peer-reviewed conferences/workshops with proceedings can be found in <a href="../publications">Publications</a>
 
-<h2>Invited talks</h3>
+Invited talks
+-----
 
 <p><i>Discourse level variability in social
 media.</i> Colloquium “Multilingualism, language
@@ -28,7 +29,8 @@ Colloquium. June 19, 2007.</p>
 Swarthmore College Linguistics Speaker Series. March 6, 2007. 
 <a href="papers/swarthmore07-slides.pdf">[slides .pdf]</a> </p>
 
-<h2>Workshops</h3>
+Workshops
+-----
 
 <p><i>Explicitness and implicitness of discourse relations across
 social media.</i> Workshop <a href="https://www.angl.hu-berlin.de/news/conferences/Archive/2020/workshop-coherence-relations">"Explicit and implicit coherence relations:
