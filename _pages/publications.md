@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="http://scholar.google.de/citations?user=E-br2oUAAAAJ">my Google Scholar profile</a>.</u>
+You can also find my papers on <u><a href="http://scholar.google.de/citations?user=E-br2oUAAAAJ">my Google Scholar profile</a>.</u> I am happy to share preprints of any papers you can't find here, please send me an email.
 
   
 <p>
@@ -294,7 +294,7 @@ Master's Thesis (<i>Diplom</i>), University of the Saarland, Saarbr&uuml;cken, G
 F. Gödde, D. Butenkov, <b>T. Scheffler</b> and R. Roller. <a href="http://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20110223&DB=worldwide.espacenet.com&locale=en_EP&CC=EP&NR=2287835A1&KC=A1&ND=4">Automated evaluation of the usability of a speech dialogue system.</a> European Patent Office, EU patent no. 2287835. 23. Mai 2012.</p>
 
 
-<h2 id="posters">Posters (without Proceedings)</h2>
+<h2 id="posters">Posters (without proceedings)</h2>
 
 <p><b>Tatjana Scheffler</b>, Rike Schlüter, Manfred Stede. Discourse
 Structuring Devices on Twitter. Presented at the <i>COST TextLink
@@ -314,7 +314,7 @@ Presented at the <i>3rd International Conference on
 
 
 
-<h2 id="edited">Edited Volumes</h2>
+<h2 id="edited">Edited volumes</h2>
 
 <p>Marco Kuhlmann and <b>Tatjana Scheffler</b> (Eds.) <i>Proceedings
 of the 13th International Workshop on Tree Adjoining Grammars and
@@ -355,7 +355,7 @@ Logos-Verlag, Berlin, 2001.</p>
 
 
 
-<h2 id="manuscripts">Unpublished Manuscripts</h2>
+<h2 id="manuscripts">Unpublished manuscripts</h2>
 
 <p>
 <h3>2005 and earlier</h3>

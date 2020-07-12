@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-Office Hours / Sprechzeiten
+Office hours / Sprechzeiten
 ----
 
 by appointment via Zoom, please contact me by email
@@ -18,7 +18,7 @@ Office
 
 tbd.
 
-Postal Address
+Postal address
 ----
 
 Jun.-Prof. Dr. Tatjana Scheffler  
