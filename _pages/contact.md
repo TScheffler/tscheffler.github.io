@@ -1,14 +1,11 @@
 ---
-title: "Contact"
+title: "Contact Info"
 permalink: /contact/
 author_profile: true
 redirect_from:
   - /contact_info
 ---
 
-
-Contact Info
-======
 
 Office Hours / Sprechzeiten
 ----

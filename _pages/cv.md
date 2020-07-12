@@ -9,36 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Work
-======
-* since 2020: Assistant Professor
-   * Digital Forensic Linguistics
-   * German Department
-   * Ruhr-Universität Bochum, Germany
+
+* since 2020: Assistant Professor, Digital Forensic Linguistics, Ruhr-Universität Bochum, Germany
   
-* 2019-2020: Postdoctoral Researcher
-  * Applied Computational Linguistics group
-  * University of Potsdam, Germany 
+* 2019-2020: Postdoctoral Researcher, Applied Computational Linguistics group, University of Potsdam, Germany 
   
-* 2016-2019: Visiting Professor
-  * Theoretical Computational Linguistics
-  * University of Potsdam, Germany
+* 2016-2019: Visiting Professor for Theoretical Computational Linguistics, University of Potsdam, Germany
 
-* 2013-2016: Postdoctoral Researcher
-  * Applied Computational Linguistics group
-  * University of Potsdam, Germany
+* 2013-2016: Postdoctoral Researcher, Applied Computational Linguistics group, University of Potsdam, Germany
 
-* 4-9/2014: Visiting Professor
-  * Semantics
-  * University of Konstanz, Germany
+* 4-9/2014: Visiting Professor for Semantics, University of Konstanz, Germany
 
-* 2008-2012: Researcher
-  * German Research Centre for Artificial Intelligence (DFKI) Projektbüro Berlin, Germany
-  * Intelligent User Interfaces group
+* 2008-2012: Researcher, German Research Centre for Artificial Intelligence (DFKI) Projektbüro Berlin, Germany, Intelligent User Interfaces group
 
-* 2004-2008: Research Assistant
-  * TAG Metagrammar project 
-  * Institute for Research in Cognitive Science (IRCS)
+* 2004-2008: Research Assistant, TAG Metagrammar project, Institute for Research in Cognitive Science (IRCS)
 
 Education
 ======
