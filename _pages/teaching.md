@@ -131,18 +131,15 @@ Rebekah Cramerus: <i>Formal to Informal Machine Translation.</i> M.Sc., Uni Pots
 Julia Gantzlin: <i>Impact of Attention on Neural Question Answering
 Models.</i> B.Sc., Uni Potsdam, 2019.  
 Kerstin Klimek: <i>Automatic detection of high quality
-conversations on Twitter.</i> M.Sc., Uni Potsdam,
-2019.  
+conversations on Twitter.</i> M.Sc., Uni Potsdam, 2019.  
 Romy Leue: <i>Ironie on: Die Interpretation von Emojis im ironischen Diskurs im Instant Messenger WhatsApp.</i> B.Sc., Uni Potsdam, 2019.  
 Philipp Sadler: <i>Spatial Attention as an Interface for Image Captioning Models.</i> M.Sc., Uni Potsdam, 2019.  
 Hellen Siewert: <i>Konversationeller und argumentativer Chatbot zu veganer Ernährung.</i> B.Sc., Uni Potsdam, 2019.  
 
 Seo Yon Lee: <i>Adapting speech recognition to specific speech patterns of speakers with agrammatic aphasia.</i> M.Sc., Uni Potsdam, <b>2018</b>.  
-Daniela Feinhals: <i>Hate Speech in deutschen und englischen Tweets.</i> B.Sc., Uni Potsdam,
-2018.  
+Daniela Feinhals: <i>Hate Speech in deutschen und englischen Tweets.</i> B.Sc., Uni Potsdam, 2018.  
 Rebecca Reglin: <i>Strategien beim Lügen.</i> B.Sc., Uni Potsdam, 2018.  
-Pia Weißenhorn: <i>Automatische Identifikation und Normalisierung von Zeitausdrücken in deutschsprachigen rechtlichen Texten.</i> B.Sc., Uni Potsdam,
-2018.  
+Pia Weißenhorn: <i>Automatische Identifikation und Normalisierung von Zeitausdrücken in deutschsprachigen rechtlichen Texten.</i> B.Sc., Uni Potsdam, 2018.  
 Antoine Laufer: <i>Untersuchung der Syntax und Semantik von Emojis anhand eines Twitter-Diskurses.</i> B.Sc., Uni Potsdam, 2018.  
 
 Anna Sopia Bolze: <i>Tendenz oder Negation? Welchen Beitrag liefert das expletive 'nicht' zur Bedeutung von biased questions des Deutschen?</i> B.Sc., Uni Potsdam, <b>2017</b>.  
