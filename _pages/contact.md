@@ -3,6 +3,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 redirect_from:
+  - /contact_info
 ---
 
 {% include base_path %}
