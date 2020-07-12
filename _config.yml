@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tatjana Scheffler"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tatjana Scheffler"
 description              : &description "linguistics & computational linguistics"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tatjana Scheffler"
-  avatar           : "tanja2020.png"
+  avatar           : "tanja2020.jpg"
   bio              : "linguist, computational linguist"
   location         : "Bochum, Germany"
   employer         :
