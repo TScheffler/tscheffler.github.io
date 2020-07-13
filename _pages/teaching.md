@@ -29,6 +29,7 @@ Courses Taught
   Ukraine. February 29, 2020.
   
 ESSLLI 2019, Riga: <a href="http://esslli2019.folli.info/courses/shallow-discourse-parsing/" >Shallow Discourse Parsing</a>
+
 <a href="https://hch19.cl.uni-heidelberg.de/">Heidelberg Computational Humanities Summer School 2019</a>: Quantitative approaches to discourse on social media
 
 <a href="http://www.geisteswissenschaften.fu-berlin.de/en/v/wild-publics/workshop/index.html">Wild Publics 2018</a>, FU Berlin: Quantitative approaches to discourse on social media
