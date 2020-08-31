@@ -38,6 +38,12 @@ ESSLLI 2019, Riga: <a href="http://esslli2019.folli.info/courses/shallow-discour
 
 ESSLLI 2016, Bolzano: <a href="http://esslli2016.unibz.it/?page_id=350">Natural Language Processing of Microblogs</a> (with Manfred Stede)
 
+<h3>Ruhr-Universität Bochum</h3>
+
+WiSe 2020/21: Interpretation von Emojis (BSc)
+WiSe 2020/21: Linguistische Autorerkennung (MSc)
+
+
 <h3>Universität Potsdam</h3>
 
 SoSe 2020: Interpretation von Emojis (BSc)  
@@ -125,6 +131,7 @@ Berfin Akta&#351;: <i>Coreference Strategies in Social Media.</i> Ph.D., Uni Pot
 in progress.  
 
 Luzie Ahrens: <i>Ausbreitung neuer Wörter im deutschsprachigen Raum - eine Analyse mit Twitterdaten.</i> B.Sc., Uni Potsdam, 2020.
+Yulia Kurennaia: <i>Automatic True-False Question Generation for Educational Purposes.</i> M.Sc., Uni Potsdam, 2020.
 Carola Nitschke: <i>Eine Untersuchung über die dialektale
 Sprachverwendung am Beispiel des sozialen Online-Netzwerks Facebook.</i> B.Sc., Uni Potsdam, 2020.  
 
