@@ -1,0 +1,125 @@
+= Legende:
+= 
+= Spalten: 
+= 1: c = causal/begruendend, s = spezifizierend, a = ambig
+=     wenn causal:
+=     -s = Sprechakt
+=     -e = epistemisch
+=     -p = propositional
+= 2: f = full clause, e = elliptisch/kein kompletter Hauptsatz
+=     -ic = infinite clause / VP 
+=     -fc = finite clause / CP
+=     -n  = noun phrase / NP
+=     -p  = prepositional phrase / PP
+=     -d  = dann/wenn - Verbindung (temporal)
+= 3: Kommentarfeld 
+=     z.B. Doppelmarkierungen, Nacherstverwendung, etc.
+=
+= 4: Text 
+=
+= Antezedens/Trigger spezifiziert mit spitzen Klammern <>
+=
+========================================
+
+  |  |  | pcc-10014.txt: In der Politik verbindet Langerwisch nicht. Anders als beim Bürger auf der Straße polarisiert er beim Betreten der politischen Bühne. Deshalb ist sein kaum ernst zu nehmendes politisches Techtelmechtel mit der CDU-Kandidatin Tiemann ein Tanz auf dünnem Eis. Gewinnt (und er hat gute Chancen) NÄMLICH SPD-Mann Helmut Schmidt die OB-Wahl, wird er sich genau überlegen, ob und wie er mit einem schwankenden Langerwisch die Karre aus dem Dreck zieht. Gewinnt Tiemann, ist für die politische Romanze einer CDU-SPD-Doppelspitze noch Zeit genug.
+ 
+  |  |  | pcc-10125.txt:Und spannend war es tatsächlich bis zuletzt. Noch am Wahlwochenende fanden sich Werbezettel von Bürgermeisterkandidat Fritz Mohneke im Briefkasten. Doch am Ende konnten alle vier Anwärter nur noch eines: NÄMLICH auf das Votum der Wähler warten.
+ 
+  |  |  | pcc-10206.txt:Aber auch Wahlsiegerin Elisabeth Herzog-von der Heide konnte ihr Traumergebnis der ersten TED-Umfrage nicht erreichen, NÄMLICH die absolute Mehrheit. Diese hätte eine Stichwahl mit dem Zweitplatzierten Hans-Jürgen Akuloff in drei Wochen überflüssig gemacht. 
+
+  |  |  | So ist sie zwar die moralische Siegerin, aber noch lange nicht Bürgermeister. Das kann jetzt NÄMLICH immer noch Akuloff werden.
+ 
+  |  |  | pcc-10222.txt:Dass nun über den eigenen Kirchturm hinaus gedacht werden muss, macht die Arbeit aufwendiger, aber auch attraktiver. Somit bietet die so häufig kritisierte Reform dem Amt Wiesenburg auch eine gute Chance. Da ist es NÄMLICH nötig, dass die Legislative, also das neue Parlament, wieder etwas stärker seine Kompetenzen deutlich macht. Der zuletzt in sich selbst träge und im Zweifelsfall von der Verwaltung auf Kurs gehaltene Amtsausschuss wird erweitert und bekommt ein jüngeres Gesicht. Frank Schulze wird Gruboer Interessen vertreten, Carsten Hagendorf ist aus Benken delegiert. Das lässt auf mehr Fragen, mehr Ideen, mehr Lösungen hoffen. 
+ 
+  |  |  | pcc-10423.txt: Schön für die Freizeitsportler, aber für die Elstaler heißt das, sie müssen vorerst weiterhin damit leben, dass Autos durch ihre unter Denkmalschutz stehende Ortsmitte brausen. Erst wenn der Bahnhaltepunkt wieder eröffnet ist, wird die Straße ihren eigentlichen Zweck erfüllen, NÄMLICH den Verkehr aus dem Ort fern zu halten.
+ 
+  |  |  | pcc-10643.txt: Die Laga 2006 birgt eine große Chance für Rathenow. Vielleicht ist es die letzte wirklich große Chance für diese Stadt. Diese Chance kann ebenso leicht in einer Katastrophe enden. Dann NÄMLICH, wenn nach Abwicklung aller Laga-Projekte kein Geld mehr bleibt um eine Straße zu reparieren, um Bücher für die Stadtbibliothek zu kaufen, um die Musikschule zu unterhalten oder um Kita-Spielzeug zu bezahlen. 
+ 
+  |  |  | pcc-10644.txt:Schade ist nur, dass die Zuhörer, die sich möglicherweise auch in der AG Politik engagieren möchten, bitter enttäuscht wurden. Die fünf Organisatoren blieben NÄMLICH aus Angst vor neonazistischen Übergriffen anonym. Auch ihr Publikum suchten sie fast nur in den Gymnasien. 
+ 
+  |  |  | pcc-10652.txt: Da dachten sich die Mainzelmänner, warum sollen wir unser Zugpferd Kerner nur einmal die Woche loslassen? Und beschlossen, dass der Sympathieträger gleich vier Mal in der Woche zu später Stunde seine Prominenten und weniger Prominenten befragt. Auf diesen Sendeplätzen laufen NÄMLICH Wiederholungen, die ohnehin kein Mensch sieht. Das mag zwar dem Zweiten unterm Quotenstrich mehr bringen, trotzdem darf bezweifelt werden, ob das der Sendung selbst und ihrer "Allzweckwaffe" Kerner wirklich zu Gute kommt. 
+ 
+  |  |  | pcc-10691.txt:Zumal die größte Sorge der CDU unbegründet ist. Die Abgeordneten befürchten NÄMLICH, dass das Land über kurz oder lang die versprochenen Fördermittel für Rheinsberg streichen könnte. Aus Potsdam wird das dementiert. 
+ 
+  |  |  | pcc-10691.txt:Gleichwohl ist verständlich, dass die Rheinsberger die Nase voll haben vom Warten. Seit mehr als einem Jahr hoffen sie auf das erlösende "Ja" von Rogner - vergeblich. Doch ob es schlau ist, den Wunsch-Investor mitsamt seinem Wunsch-Konzept so kräftig unter Druck zu setzen, darf bezweifelt werden. Wenn Rogner sich verabschiedet, könnte NÄMLICH ganz schnell passieren, was die Konkurrenz in Neuruppin schon seit langem prophezeit: Rheinsberg steht ganz ohne Bad da.
+ 
+  |  |  | pcc-10761.txt:Das ist auch in den Kirchengemeinden nicht anders. Auch hier sind die Gemeinderäte stets auf der Suche nach "Schäfchen", die mehr machen, als sonntags zum Gottesdienst zu gehen. Zuweilen sorgt aber auch die alte Garde dafür, dass sich partout keine Nachfolger finden lassen, NÄMLICH dann, wenn die Amts- und Würdenträger an ihren angestammten Pöstchen kleben.
+ 
+  |  |  | pcc-11220.txt: Diejenigen, die bereits damals von der Gesamtschule als eine gute Möglichkeit für Trebbin überzeugt waren, werden jetzt vielleicht eine Art Genugtuung verspüren. Es spricht jedoch für die politische Kultur in Trebbin, dass es in den Debatten um die Sache - die Schüler - geht, Häme wäre in diesem Fall wohl auch nicht angebracht. Zumal es allein mit der Umwandlung in eine Gesamtschule nicht getan ist, alles, was Trebbin bieten könnte, ist NÄMLICH in der Umgebung, z.B. in Luckenwalde oder Ludwigsfelde, bereits vorhanden - und das sogar mit Abitur.
+ 
+  |  |  | pcc-11280.txt:Containerplätze sind zweckmäßig, doch leider funktionieren sie nicht so richtig. Das ist bei anderen Einrichtungen auch der Fall, die auf Selbstdisziplin und Bürgersinn bauen. Viele Menschen schaffen es NÄMLICH nicht, ihren Müll korrekt in die doch einfach gekennzeichneten Behälter zu werfen. So gehen Kunststoff und Glas oft durcheinander, auch bei der Farbunterscheidung von Flaschen haben einige Zeitgenossen offensichtlich ihre Probleme. 
+ 
+  |  |  | pcc-11285.txt:Mit der Inbetriebnahme der Umgehungsstraße gibt's seit kurzem eine neue Chance für die Altstadt - NÄMLICH sich jetzt so zu entwickeln, wie es ihr angemessen ist. Das kürzlich vorgestellte Verkehrskonzept zeigt die richtige Richtung auf für eine attraktivere Innenstadt: Die Straßen sollen schmaler werden, die Gehwege breiter. 
+ 
+  |  |  | pcc-11308.txt:Ob man nach dem Wahlspektakel vom Mittwoch aber noch kompetente Kandidaten findet, darf allerdings bezweifelt werden: Niemand bewirbt sich um eine Hauptrolle im Kasperle-Theater. Und kein Wohlmeinender übernimmt die Leitung eines Amtes, das soeben seinen Untergang besiegelt hat. Das NÄMLICH ist die Tragweite des Entscheids: Ohne kämpferische Führung wird das Amt Schildow die Gemeindegebietsreform nicht überdauern. 
+ 
+  |  |  | pcc-11686.txt:Berlins Haushaltslage ist zwar katastrophal, aber es besteht der feste Wille, Lösungen zu finden, auch durch die Senkung der Personalkosten. SPD-Landeschef Strieder ist schon jetzt klar, wann die Ampelpartner ihre letzten Probleme lösen werden, NÄMLICH "traditionsgemäß in einer Nacht". In irgendeiner frühen Morgenstunde kurz vor dem 13. Dezember werden übermüdete Verhandlungsführer vor die Journalisten treten und erleichtert mitteilen: Es ist vollbracht. 
+ 
+  |  |  | pcc-12000.txt:Was ist aber mit der Luftverschmutzung? Diese wird hier überhaupt nicht berücksichtigt und das Stadtklima völlig außen vor gelassen. Jeder Klimatologe würde NÄMLICH all diese Empfehlungen in den Wind schreiben. Schließlich stoßen langsam fahrende Autos mehr Schadstoffe aus. Geschlossene Straßenschluchten verhindern die Zufuhr von Frischluft. 
+ 
+  |  |  | pcc-12084.txt:Er stänkert gerne. Gunnar Lade ist unbequem, das steht außer Frage. Doch diesmal ist das gut so. Als einziger Stadtverordneter zeigte er NÄMLICH Courage am Montag in der Sitzung des Hauptausschusses, als es um die Abstimmung zum lang diskutierten Schulthema ging und eine klare Aussage gefordert war, die sonst offenbar niemand zu treffen wagte. 
+
+  |  |  | pcc-12087.txt:"Insgesamt sind die Wirkungen von Kultur in einer Region natürlich nur schwer zu messen, da sie nur langfristig und indirekt eintreten. Häufig bemerkt man die Wirkung überhaupt erst im Negativen, wenn NÄMLICH etwas wegfällt und damit Zusammenhänge zusammenbrechen." Diese Passage aus dem Brief ist Warnung und Hinweis zugleich. 
+ 
+  |  |  | pcc-12188.txt: Der Vorschlag, den die Verwaltung jetzt den Stadtverordneten unterbreiten will, wäre allerdings nicht ohne die Weitsicht der drei Schulkonferenzen zustande gekommen. Sie haben sich für die Fusion und einen schnellstmöglichen Vollzug ausgesprochen. Gehen die Abgeordneten mit, haben die Schüler und Lehrer  gewonnen - NÄMLICH die nötige Ruhe, Zuversicht und Planungssicherheit, um Unterricht vernünftig gestalten zu können. Ob in wenigen Jahren die Grimm- oder die Vierjahreszeiten-Schule endgültiges Domizil wird, hängt auch von der Entwicklung der jeweiligen Gebäude-Mitnutzer ab.
+ 
+  |  |  | pcc-12331.txt:Arme Kyritzer. Bei ihnen wird demnächst das obligatorische Mineralwasser auf den Tischen fehlen. Jetzt kam es raus: Es sprudelt NÄMLICH bisher als illegale Quelle. Der Bericht über die "Prüfung der Jahresrechnung der Stadt Kyritz für das Haushaltsjahr 1999" stellt in Fettschrift amtlich fest: "Entgegen dem bei dieser Haushaltssituation angemessenen Grundsatz der Sparsamkeit wurden Getränkekosten für Sitzungen der Stadtverordneten bezahlt, obwohl diese Aufwandsentschädigungen und zusätzlich Sitzungsgeld erhalten."
+ 
+  |  |  | pcc-12388.txt:In Falkensee wird eine am 12. November eröffnete Fahrradaufbewahrung am Bahnhof zum Monatsende wieder geschlossen. In der ersten Woche waren es NÄMLICH nur acht Fahrräder, deren Besitzer ihr Rad vor einem Diebstahl geschützt wissen wollten. Nach dieser Erfahrung hat der Inhaber sofort das Handtuch geworfen und seinen zwei Mitarbeitern bereits nach fünf Tagen gekündigt.
+ 
+  |  |  | pcc-13461.txt:Wie viele verschiedene Gesichter freiwillige und unentgeltliche Tätigkeit tatsächlich hat, das zeigen nicht nur Veranstaltungen, die an das mittlerweile ausklingende "Jahr des Ehrenamtes" erinnern. Immer wieder machen auch Leute und Taten von sich Reden. Ein dankbares Thema für Zeitungsleute. Die NÄMLICH wollen gern einmal auch etwas Positives und Vorbildliches zeigen.
+ 
+  |  |  | pcc-13533.txt: Die Umlage soll so oder so um 1,5 bis 2 Punkte angehoben werden - und das wird die freiwilligen Angebote in Städten und Gemeinden sehr deutlich einschränken. Noch ein Argument, das keines ist: Weil das Westhavelland die Strodehner Brücke hat soll das Osthavelland sein Gymnasium bekommen. Für den Brückenbau wurde den Bürgern NÄMLICH nicht die Abgabenschraube angelegt - er wurde mit GFG- und EU-Geld bezahlt.
+ 
+  |  |  | pcc-13758.txt: Wer auf das Ja-Wort aus Brieselang warten kann, keine Scheu vor seitenlangen Fragebögen hat und in Kauf nimmt, dass er wahrscheinlich nicht billiger wegkommt, als wenn er nach eigenen Vorstellungen die Fassade gestrichen hätte - dem kann bescheinigt werden, dass ihm sein Dorf und dessen Erscheinungsbild am Herzen liegt. Schweren Herzens wird sich die Stadt von ihrem Geld trennen, wenn es NÄMLICH darum geht, die Eigenanteile für bestimmte Vorhaben zur Verfügung zu stellen.
+ 
+  |  |  | pcc-14120.txt:Bevor Beobachter später ketzerisch fragen, warum es für den Straßenbau ein Amt mit vielen Experten gibt, wenn dann doch alles schief läuft, sollte Strausberg lieber mehr bieten als eine Bedarfsampel auf Zeit. Der Verkehrsstrom wird hier NÄMLICH auf lange Sicht nicht abreißen.
+ 
+  |  |  | pcc-14124.txt: Die Kreistagsabgeordneten sind gut beraten, das Golzower Amtshaus noch einmal auf die Tagesordnung zu setzen, damit es keine halbe Sache bleibt. Denn gelingt es nicht, das Ruder doch noch herumzureißen, dann wären im Endeffekt NÄMLICH auch die 1,8 Millionen Mark aus der Denkmalpflege in den märkischen Sand gesetzt.
+ 
+  |  |  | pcc-14315.txt:Beide hoffen jetzt darauf, dass ihre Wähler nicht von der Wahlmüdigkeit befallen werden oder vielleicht meinen, dass eh alles klar sei. Wenn NÄMLICH alle oder zumindest die meisten so dächten, würde NÄMLICH auch an diesem Sonntag immer noch keine Entscheidung fallen.
+  
+  |  |  | pcc-14670.txt:Doch halt: Gingen beide Parteien noch bei der Landratswahl Hand in Hand, so dürfte der Kampf um den Bürgermeistersessel in der Elbestadt alles andere als harmonisch verlaufen. Zur großen Überraschung hat die PDS am Sonnabend NÄMLICH eröffnet, ebenfalls mit einem Kandidaten aufzuwarten. Der Favorit der Wittenberger Christdemokraten, Karl-Heinz Straßburg, bekommt also weitere Konkurrenz. 
+ 
+  |  |  | pcc-15474.txt: Das stets wohl dekorierte Schaufenster mit gut sortierten Kunstgewerbe-Artikeln wird dem Stadtbild fehlen. Ausgerechnet daneben verschandelt die HO-Ruine den Breiten Weg. Und gegenüber ist das einzige Café am Platz in einen Dornröschenschlaf gefallen. Droht Ziesars Altstadt zu veröden? Die Gefahr besteht  jedenfalls. NÄMLICH dann, wenn sich junge und alteingesessene Gewerbetreibende selbst aufgeben. Ihnen geht es nicht schlechter oder besser als Berufskollegen in anderen Kleinstädten auf dem flachen Lande. 
+  
+  |  |  | pcc-15609.txt:Die Blankenfelder Gemeindevertreter haben ihren Beschluss, die Straßenlampen in der Nacht für vier Stunden auszuschalten, mit der heißen Nadel gestrickt. Das sicherlich gut gemeinte Anliegen, NÄMLICH Energiekosten zu sparen, könnte ihnen teuer zu stehen kommen.
+ 
+  |  |  | pcc-15636.txt:Als Zahlungsmittel bleibt uns die D-Mark bis Ende Februar übergangsweise erhalten. Dennoch sollte die Umstellung rascher geschehen. Ab dem 1. Januar spucken alle Geldautomaten nur noch die neue Währung aus, sofern die Automaten und Leitungen zu den Girozentralen nicht gleich überlastet werden. Ansonsten kommt dem Handel eine wichtige Funktion zu. Wer NÄMLICH in D-Mark zahlt, kriegt Euro heraus. So ist es jedenfalls vorgesehen.
+  
+  |  |  | pcc-16103.txt:Sell sprach es nicht offen aus, aber er deutete es deutlich genug an bei der Einführung des neuen Gemeindekirchenrats: Zu dessen Hauptaufgaben gehöre NÄMLICH die Verkündung des Wortes, nicht aber, alle zwei bis drei Kilometer einen Gottesdienst anzubieten.
+ 
+  |  |  | pcc-16153.txt:In Berlin haben die rot-roten Verhandlungspartner eine wichtige Regel von Koalitionsrunden befolgt, NÄMLICH die "heißen Eisen" möglichst gleich anzupacken. Olympia war ein "heißes Eisen", das andere der Ausbau Schönefelds.
+ 
+  |  |  | pcc-16169.txt:Natürlich ist es für die Initiatoren der Aktion "Tolerantes Wittstock" ein bemerkenswerter Erfolg, so viele Leute mobilisiert zu haben. Aber andererseits ist es auch einfach traurig, dass man schon für etwas auf die Straße gehen muss, das eigentlich selbstverständlich sein sollte: NÄMLICH den ganz normalen Umgang miteinander. Dieses Thema dürfte daher gar keine Demo wert sein. Aber so ist es leider nicht. 
+ 
+ |  |  | pcc-16583.txt:Es gibt ihn noch, den Gemeinschaftssinn. Jedenfalls in Menz. Hier NÄMLICH winken Einwohner nicht gleich ab, geht es darum, dem Nachbarn mal wieder unter die Arme zu greifen. Ist Not am Mann, steht manch Menzer ohne große Worte sofort zur Stelle.
+ 
+ |  |  | pcc-16819.txt:Egal wie die Würfel in den Gemeinden fallen, ist für Außenstehende der Ton erschreckend, mit dem sich Fanatiker beider Orte gegenseitig Vorschriften machen. Die Grenzen des sachlichen Umgangs und auch die der allgemeinen Höflichkeit sind dabei NÄMLICH weit überschritten.
+ 
+  |  |  | pcc-16846.txt:Im engeren Sinne hält sich die Stadt bei der neuen Regelung nur korrekt an die Gesetze. Auch die Unterstellung, die Verwaltung hoffe auf Nicht-Beantragung, um Ausgaben zu sparen, ist Unsinn - das Wohngeld kommt eh' aus anderen "Töpfen". Trotz der Porto-Einsparung könnte die Stadt aber unter Umständen dennoch draufzahlen. NÄMLICH dann, wenn die Mitarbeiter künftig viel Zeit aufbringen müssen, um sich mit zu spät kommenden Antragstellern und deren Verzweiflung auseinanderzusetzen.
+ 
+  |  |  | pcc-17382.txt:Warum ist ihr Schreiben an die Vastu vom 5. November 2001 erst jetzt der Öffentlichkeit bekannt gemacht worden? Und dies auch nur, weil es Vertreter der Bürgerinitiative "Fürstenberg ohne Psychosekte" vehement gefordert hatten. Vielleicht wollte sie den Mitgliedern der Bürgerinitiative nicht den Mut nehmen, Unterschriften gegen die TM-Ansiedlung zu sammeln. Die Listen gingen NÄMLICH genau am 5. November erstmals rum und 1345 Namen und Adressen stehen nun drauf.
+  
+  |  |  | pcc-17814.txt:"Vielen Dank für den Beifall, aber wir wissen, was wir können", lautet ein alter Spruch und er trifft zuweilen auch auf das Geschäftsleben zu. Eher im Verborgenen NÄMLICH, hat gestern ein Unternehmen sein 100-jähriges Bestehen gefeiert, von dem viele Brandenburger gar nicht wissen, dass es existiert. 
+
+  |  |  | pcc-17814.txt:Für zahlreiche andere Havelstädter hingegen verbindet sich die stille Erfolgsgeschichte der Wohnungsgenossenschaft Einheit mit ihrer eigenen Biographie.  In den vergangenen 100 Jahren NÄMLICH haben Generationen von ihnen in Häusern des früheren Beamtenwohnungsvereins ihr Leben verbracht. Zu Recht hat OB Helmut Schliesing die Geschichte des Unternehmens als bewegt bezeichnet, musste es doch alle Höhen und Tiefen des vergangenen Jahrhunderts überstehen. 
+ 
+  |  |  | pcc-1784.txt:Hier wird nicht modernisiert über die Köpfe der hier Wohnenden hinweg, sondern mit den Köpfen der Mieter. Es wird NÄMLICH gefragt, was erwünscht ist. Nur eine Wanne im Bad? Oder vielleicht eine Dusche dazu? Bis zu welcher Höhe sollen die Kacheln geklebt werden? Welches Muster sollen sie haben, welche Farbe? 
+ 
+  |  |  | pcc-17953.txt:Während den Detektiv immer ein Tatbestand zum Handeln fordere, sei das Aushorchen unseligen Angedenkens nicht damit vergleichbar. Und doch macht der junge Mann auch keinen Schmus darum, dass er natürlich auch mal ein bisschen lavieren müsse, um an Informationen zu kommen, die Verwicklungen aufhellen oder Menschen Gewissheit geben, die schwarze Schafe entweder kräftig abseifen oder Einsicht wecken. Im Unterschied zu Detektiven der bekannteren Prägung NÄMLICH hat T. keine Rechte, die ihm bei Ermittlungen helfen. Eines aber hat er mit seinen berühmten Kollegen gemein. Gute Krimis sind immer ein Spiegelbild der Probleme Gesellschaft gewesen. Auch T. arbeitet in diesem Spannungsfeld.
+ 
+  |  |  | pcc-2781.txt:Gereicht hat es hier, wenigstens zwei zu würdigen, Matthias Bollmann aus Brunn und Hannelore Wegener. Die Frau auf dieser Zeitungsseite kennt allerdings ein Mittel, doch noch andere Unermüdliche auszuzeichnen. Sie lädt NÄMLICH zum Preis-Essen ein, wer ihr selber zur Seite steht, wenn sie krank ist, nicht daheim sein kann, einen braucht, der die Zeitung rausnimmt und die Blumen gießt. Merken Sie was? Es gibt mehr Helfer, als man glaubt.
+ 
+  |  |  | pcc-4254.txt:Ist Otto Theel eine Mogelpackung? In gewisser Weise wohl schon. Denn jeder, der den beliebten Amtsinhaber am 11. November 2001 wählt, wird spätestens 2008 enttäuscht sein. Dann NÄMLICH muss Theel seinen Sessel räumen - ein Jahr vor Ende der Amtsperiode. Die Gesetze verlangen es so. 
+ 
+  |  |  | pcc-5875.txt:Jetzt hat es auch die Gemeinde Marzahna erwischt. Kurz vor Toresschluss entwickelt sie eine Energie, die schon viel früher nötig gewesen wäre, um Alternativen für den Ort in aller Ruhe ausloten zu können. Dann NÄMLICH hätten viele der Probleme, die nun Hals über Kopf gelöst werden müssen, längst vom Tisch sein können. Denn nicht erst seit der Sitzung des Amtsausschusses im September ist klar, dass das Innenministerium dem Amtsmodell Treuenbrietzen im Zuge der Gemeindegebietsreform keine Zukunft einräumt. 
+  
+  |  |  | pcc-6193.txt:Zudem erinnert der wuchtige Mehrgeschosser an ein Kapitel der jüngsten Grebser Geschichte, die nicht nur die Gemeindevertreter nur zu gerne langsam vergessen würden. Gebaut hat das Hotel NÄMLICH ein Investor mit Geld, das er sich von der Kommune erschlich. Fördergeld aus einem Kommunalkredit. Der Mann bezahlte viele Handwerker nicht und wurde voriges Jahr zu einer mehrjährigen Haftstrafe verurteilt. 
+ 
+  |  |  | pcc-8658.txt:Bedauerlicherweise hat es in der Folge noch weitere, ähnlich dramatische ausländerfeindliche Übergriffe gegeben. Sie sind freilich sensibler aufgenommen worden. Ablehnung wurde in verschiedener Weise demonstriert und auf vielfältige Weise Verständigung gesucht, auch wenn längst noch zu viele Menschen schweigen und damit ein falsches Signal an die Täter aussenden. Die Einwohner tun NÄMLICH gut daran, auch während der jetzt anscheinend ruhigen Situation wachsam zu bleiben und nicht zu vergessen. Schließlich, das beweist die negative Auflistung in den zwei deutschlandweit wahrzunehmenden Zeitungen und deren Internetseiten, steht die Stadt Belzig selbst unter Beobachtung.
+ 
+  |  |  | pcc-8824.txt:Am kommenden Wochenende werden noch die Frauen und Männer von Gräbendorf in dieser Sache abstimmen und die Frage beantworten, ob sie eine Großgemeinde Friedersdorf wollen (Komisch, dass die Friedersdorfer nicht einmal selber wissen, ob sie die wollen). Entschieden ist in dem Moment jedoch noch gar nichts. Dann geht es NÄMLICH in die nächste Runde. Im Innenministerium wird entschieden, ob den Wünschen der Bürger auf dem flachen Land nachgegeben werden kann. Es behielt sich von Anfang an vor, das letzte Wort bei den künftigen Gemeinde-Ehen zu haben. 
+ 
+  |  |  | pcc-9713.txt:Dass gestern die Stadt Hennigsdorf in illustrer Gesellschaft einen Preis erhielt, ist von besonderem Reiz. Der Grund der Übung NÄMLICH ist das Verkehrskonzept der Stadt, das gerade jetzt im Wahlkampf eigentlich von allen Bürgermeister-Kandidaten, außer vom Amtsinhaber, mit mehr oder weniger Kritik bedacht wurde. 
+ 

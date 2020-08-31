@@ -1,0 +1,10 @@
+Independent Research Module: Classification of Spatial Images of Cities at Night
+===============================
+
+Advisors: Tatjana Scheffler (tatjana.scheffler@uni-potsdam.de)
+                Christopher Kyba (Deutsches GeoForschungsZentrum GFZ)
+
+
+Astronauts on the International Space Station take a great number of photographs of the Earth's surface, which are made publicly available by NASA at https://eol.jsc.nasa.gov/. Images taken at night are currently being manually classified in a crowdsourcing effort (http://www.citiesatnight.org/), and categorized as containing cities or other objects. Finally, volunteers identify which cities are depicted in an image.
+
+The task is to build a machine learning classifier that can classify new and existing unclassified images into their respective cities. Several thousand existing manual classifications of cities (http://citiesatnight.org/index.php/maps/) can be used as training data. In addition, maps and other known aerial or spatial photographs of the cities in the dataset can be used in order to improve classification.

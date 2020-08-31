@@ -1,0 +1,49 @@
+
+Bitte annotieren Sie die folgenden Korpusvorkommen von "nämlich" nach dem im Seminar besprochenen Kategorien.
+
+Speichern Sie die Datei lokal und öffnen Sie sie.
+Sie können die Annotationen mit einem Texteditor direkt am Anfang der Zeile (vor und zwischen die "|"-Zeichen) einfügen.
+
+Annotieren Sie folgende Spalten: 
+1: Lesart
+c = causal/begruendend, s = spezifizierend, a = ambig
+     wenn causal:
+     -p = propositional
+     -e = epistemisch
+     -s = Sprechakt
+
+Also z.B. c-s für causal-sprechakt.
+Zur Erinnerung:
+
+propositional:
+  Die Straße ist nass, denn es hat geregnet.
+
+epistemisch: (die Einstellung/das Wissen/Glauben etc. betreffend)
+  Peter ist zu Hause, denn sein Licht ist an. (= daher weiß ich es)
+
+sprechakt: (Äußerungsbezogen)
+  Die Antwort ist auf Seite 42, denn von alleine findest Du sie wohl nie. (= darum sage ich es Dir)
+
+Bitte nur "a" für ambig annotieren, falls Sie nicht entscheiden können, ob eine begründende oder spezifizierende Lesart vorliegt, bzw. wenn Sie glauben, dass beide gleichermaßen gelten.
+
+2: Syntax
+f = full clause, e = elliptisch/kein kompletter Hauptsatz
+     -ic = infinite clause / VP 
+     -fc = finite clause / CP
+     -n  = noun phrase / NP
+     -p  = prepositional phrase / PP
+     -d  = dann/wenn - Verbindung (temporal)
+
+f = Satz-"nämlich", adverbiale Verwendung
+e = Nicht-Satz-"nämlich", steht mit einer Konstituente. Diese kann auch ein Teilsatz (clause) sein.
+
+Bsp.: e-ic für "<Etwas> hat mir nicht gefallen. Nämlich dass Ihr ständig zu spät gekommen seid."
+
+3: Kommentarfeld 
+für weitere Kommentare, Bemerkungen, Auffälliges verwenden
+  z.B. Doppelmarkierung, Nacherstverwendung, etc.
+
+Nutzen Sie auch das Kommentarfeld, um begründende Vorkommen von "nämlich", die NICHT weglassbar sind oder sich NICHT durch "denn" ersetzen lassen zu markieren. Ebenso für spezifizierende Vorkommen von "nämlich", die NICHT durch "und zwar" ersetzt werden können.
+
+
+Bitte markieren Sie außerdem den Antezedens/Trigger, der von "nämlich" spezifiziert bzw. begründet wird,  mit spitzen Klammern <>, wie oben "Etwas" im Beispiel unter 2.

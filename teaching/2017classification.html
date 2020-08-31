@@ -1,0 +1,270 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta name="Author" content="Tatjana Scheffler">
+   <title>Classification Approaches for Social Media Text, summer term 2017</title>
+   <meta name="description" content="Tatjana Scheffler - Social Media Classification">
+   <link href="../tshp.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+
+<div  id="container">
+<h1>Classification Approaches for Social Media Text</h1>
+
+<h2>Course organization</h2>
+
+<p>
+<table cellspacing="10">
+  <TR>
+    <TD width="100">Instructor:</TD>
+    <TD><a href="http://www.ling.uni-potsdam.de/~scheffler/">Tatjana
+      Scheffler</a>
+  </TR>
+  <TR valign="top">
+    <TD>Time:</TD>
+    <TD>fridays, 12-14:00 <br />summer term 2017</TD>
+  </TR>
+   <TR>
+    <TD>Place:</TD>
+    <TD>Golm, Haus 14, Raum 009</TD>
+  </TR>
+   <TR>
+    <TD>Modules:</TD>
+    <TD>AM3b (B.Sc.)<br />AM11, AM12 (M.Sc.) </TD>
+  </TR>
+   <TR>
+    <TD>Moodle:</TD>
+    <TD>Please register to the class's Moodle page.</TD>
+  </TR>
+</table>
+</p>
+
+<h2>Requirements</h2>
+<p>
+  readings<br />
+  active participation<br />
+  presentation of either a classification algorithm or a task<br />
+<b>Grade:</b> Final Project -- Either a programming project implementing a classification approach based on some social media data, or a theoretical/concept paper discussion different approaches to the same problem, giving a literature overview, etc.
+</p>
+
+
+<h2>Course description</h2>
+
+<p>
+In this class, we study classification and clustering approaches for social media. Social media data typically comes with text but also other metadata (user information, geo-tags, network structure, etc.) which can be exploited for classification.
+</p>
+
+<p>
+We will present different classification algorithms including:
+</p>
+
+<ul>
+   <li> naive Bayes </li>
+  <li> support vector machines (SVM) </li>
+   <li> k-nearest-neighbor </li>
+   <li> decision trees </li>
+   <li> neural network approaches</li>
+</ul>
+
+<p>
+We will work with concrete implementations of these algorithms to try
+them out on Twitter data. The class will include a practical component
+where we collaboratively build a classifier, probably for detecting hate speech.
+</p>
+
+<p>
+We will discuss tasks in social media classification such as:
+</p>
+
+<ul>
+  <li>sentiment</li>
+  <li>spam</li>
+  <li>impartiality</li>
+  <li>hate speech</li>
+  <li>bot or not</li>
+  <li>on/off topic</li>
+  <li>user characteristics: gender, age, occupation, social class</li>
+  <li>... and others</li>
+</ul>
+
+<p>
+For practical matters, we will also introduce toolkits such as WEKA or
+RapidMiner if requested by participants, but will mainly use Python
+and scikit-learn
+</p>
+
+<h2>Datasets</h2>
+
+<p>Available <a href="2017classification-datasets.html" >datasets</a> for final projects. </p>
+
+<h2>Readings</h2>
+
+<p>Listed below with each topic. For a detailed overview on
+classification approaches in general, see:</p>
+<ul>
+  <li>Aggarwal, C. C. and Zhai, C. (2012). <a href="https://pdfs.semanticscholar.org/5c89/852b90a1e9e506d237749c745bf42ac0f737.pdf" >A survey of text classification algorithms.</a> In Aggarwal, C. C. and Zhai, C. (Eds.),
+Mining text data, pp. 163–222. Springer.</li>
+</ul>
+
+<h2>Schedule</h2>
+
+</div>
+<div id="bigtable">
+<table frame="void" rules="none" width="100%">
+<tbody>
+<tr>
+<th>Date</th>
+<th>Topic</th>
+<th>Readings</th>
+<th>Presenters/Notes</th>
+</tr>
+<tr>
+<td>21.4.</td>
+<td>Introduction to Text Classification</td>
+<td>--</td>
+<td>--</td>
+</tr>
+<tr>
+<td>28.4.</td>
+<td>Naive Bayes</td>
+<td>Jurafsky/Martin <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf" >SLP3, Chapter 6</a></td>
+<td>assignment 1</td>
+</tr>
+<tr>
+<td>5.5.</td>
+<td>Hate speech (I)</td>
+<td>Quandt, Thorsten, and Ruth Festl. (2017). Cyberhate. The
+  International Encyclopedia of Media Effects.<br />
+Nobata, C., Tetreault, J., Thomas, A., Mehdad, Y., & Chang, Y. (2016). <a href="http://dl.acm.org/citation.cfm%3Fid=2883062" >Abusive language detection in online user content</a>. In Proceedings of the 25th International Conference on World Wide Web (pp. 145-153). 
+</td>
+<td>Feinhals<br />Seidler</td>
+</tr>
+<td><span style="color: #ff0000;">8.5.</span></td>
+<td><span style="color: #ff0000;">Hate Speech on Twitter </span></td>
+<td><span style="color: #ff0000;">CL Colloquium: Zeerak Waseem (Sheffield)<br />Please note the
+  special time! Mon, 8.5., 12-14, bldg. 14, room 009 </span><br />
+Waseem, Z., & Hovy, D. (2016).<a href="http://m-mitchell.com/NAACL-2016/SRW/pdf/N16-2013.pdf" > Hateful symbols or hateful people?
+  predictive features for hate speech detection on twitter.</a> In
+  Proceedings of NAACL-HLT (pp. 88-93).<br />
+Waseem, Z. (2016). <a href="http://www.aclweb.org/anthology/W/W16/W16-56.pdf%23page=150" >Are you a racist or am I seeing things? Annotator influence on hate speech detection on Twitter.</a> In Proceedings of the 1st Workshop on Natural Language Processing and Computational Social Science (pp. 138-142).
+</td>
+<td><span style="color: #ff0000;">Special event!</span> </td>
+</tr>
+<tr>
+<td>12.5.</td>
+<td>Hate speech (II)</td>
+<td>Jurafsky & Martin, SLP3, Chapter 7, <a
+  href="https://web.stanford.edu/~jurafsky/slp3/7.pdf" >Logistic
+  Regression</a><br />
+  Wulczyn, E., Thain, N., & Dixon, L. (2017). <a href="https://arxiv.org/pdf/1610.08914.pdf" >Ex Machina: Personal
+  Attacks Seen at Scale</a>. Proceedings of WWW, Arxiv preprint.
+</td>
+<td>Johannsmeier<br />Garda</td>
+</tr>
+<tr>
+<td>19.5.</td>
+<td>Decision trees / practical issues</td>
+<td>Mitchell, Chapter 3, <a href="http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf" >Decision Trees</a></td>
+<td>Leitner</td>
+</tr>
+<tr>
+<td>26.5.</td>
+<td><span style="color: #2288aa;">no class</span></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2.6.</td>
+<td>Sentiment</td>
+<td>Günther, T. (2013). <a href="http://tobigue.de/semevaltweet/sentiment_analysis_of_microblogs.pdf" >Sentiment Analysis of
+  Microblogs</a>. M.Sc. thesis, University of Gothenburg.<br />
+Szerszen, D., & Palsson, A. (2016). <a href="http://www.diva-portal.org/smash/get/diva2:930520/FULLTEXT01.pdf" >An Analysis of Methods and the
+  Impact of Sentiment Classification in Social Media.</a> Ms. KTH, Sweden.
+</td>
+<td>Gantzlin<br />Stazherova</td>
+</tr>
+<tr>
+<td>9.6.</td>
+<td>Sarcasm (I)</td>
+<td>Davidov, D., & Tsur, O. (2010). <a href="http://www.aclweb.org/anthology/W10-2914" >Semi-Supervised Recognition of
+  Sarcastic Sentences in Twitter and Amazon</a>, 107–116.<br />
+Liebrecht, C., Kunnemann, F., & van den Bosch, A. (2013). <a href="http://repository.ubn.ru.nl/handle/2066/112949" >The perfect solution for detecting sarcasm in tweets # not.</a> In 4th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (pp. 29–37).
+</td>
+<td>Haß<br /> Conle</td>
+</tr>
+<tr>
+<td>16.6.</td>
+<td>Sarcasm (II)</td>
+<td>Abercrombie, G., & Hovy, D. (2016). <a href="http://www.aclweb.org/anthology/P16-3016" >Putting Sarcasm Detection into Context: The Effects of Class Imbalance and Manual Labelling on Supervised Machine Classification of Twitter Conversations.</a> ACL 2016, 107.</td>
+<td>Lloyd</td>
+</tr>
+<tr>
+<td>23.6.</td>
+<td>Impartiality</td>
+<td>Zafar, M. B., Gummadi, K. P., & Danescu-Niculescu-Mizil, C. (2016). <a href="http://www.mpi-sws.org/~mzafar/papers/impartiality.pdf" >Message Impartiality in Social Media Discussions.</a> In ICWSM (pp. 466-475).</td>
+<td>Sadler</td>
+</tr>
+<tr>
+<td>30.6.</td>
+<td>Geolocation (I)</td>
+<td>Wing, B., & Baldridge, J. (2014). <a
+  href="https://pdfs.semanticscholar.org/7738/1e88b4509dd84dbdaa00619cddd35e346a74.pdf"
+  >Hierarchical Discriminative Classification for Text-Based
+  Geolocation.</a> In Proceedings of the 2014 Conference on Empirical
+  Methods in Natural Language Processing (EMNLP) (pp. 336–348).<br />
+Gontrum/Scheffler (2015). <a href="https://sites.google.com/site/nlp4cmc2015/proceedings" >Text-based Geolocation of German Tweets</a>. In: Proceedings of the NLP4CMC 2015 Workshop at GSCL, Duisburg-Essen, Germany.</td>
+<td>Raithel <br />Pornavalai </td>
+</tr>
+<tr>
+<td>7.7.</td>
+<td>Geolocation (II)</td>
+<td>Jurgens, D., Finnethy, T., Mccorriston, J., Xu, Y. T., & Ruths,
+  D. (2015). <a href="http://www-cs.stanford.edu/~jurgens/docs/jurgens-et-al_icwsm-2015.pdf" >Geolocation Prediction in Twitter Using Social Networks :
+  A Critical Analysis and Review of Current Practice.</a> In AAAI
+  Conference on Weblogs and Social Media.<br />
+Miura, Y., Taniguchi, M., Taniguchi, T., & Ohkuma, T. (2016). <a href="http://www.aclweb.org/anthology/W/W16/W16-39.pdf%23page=247" >A simple scalable neural networks based model for geolocation prediction in Twitter.</a> WNUT 2016, 9026924, 235.
+</td>
+<td>Feldhus <br />Rakowski</td>
+</tr>
+<tr>
+<td>14.7.</td>
+<td>User characteristics (I)</td>
+<td>Simaki, V., Mporas, I., & Megalooikonomou, V.<a href="http://www.iosifmporas.gr/index_files/b31.pdf" > Age Identification
+  of Twitter Users: Classification Methods and Sociolinguistic
+  Analysis.</a><br />
+Flekova, L., Ungar, L., & Preotiuc-Pietro, D. (2016, August). <a href="http://www.aclweb.org/anthology/P/P16/P16-2.pdf#page=347" >Exploring stylistic variation with age and income on Twitter.</a> In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics, ACL (pp. 313-319).<br />
+Zhang, J., Hu, X., Zhang, Y., & Liu, H. (2016, March). <a href="http://www.public.asu.edu/~jzhan179/Papers/ICWSM2016-AgeEstimation.pdf" >Your Age Is No Secret: Inferring Microbloggers' Ages via Content and Interaction
+  Analysis.</a> In ICWSM (pp. 476-485).
+</td>
+<td>Dobler <br />Zawierucha</td>
+</tr>
+<tr>
+<td>21.7.</td>
+<td>User characteristics (II)</td>
+<td>Ljubešic, N., & Fišer, D. (2016). <a href="http://www.aclweb.org/anthology/W/W16/W16-39.pdf%23page=16" >Private or Corporate? Predicting
+  User Types on Twitter.</a> WNUT 2016, 4.<br />
+Priante, A., Hiemstra, D., Broek, T., Saeed, A., Ehrenhard, M., & Need, A. (2016). <a href="http://doc.utwente.nl/102356/" ># WhoAmI in 160 Characters? Classifying Social Identities Based on Twitter.</a>
+</td>
+<td>Schulz <br />Uhlemann</td>
+</tr>
+<tr>
+<td>28.7.</td>
+<td>Project presentations</td>
+<td>--</td>
+<td>all</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="container">
+
+
+</div>
+
+<div class="foot">
+<!-- hhmts start -->Last modified: Thu Jun 29 10:03:33 CEST 2017 <!-- hhmts end -->
+</div>
+</body>
+</html>
