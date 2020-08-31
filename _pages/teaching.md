@@ -40,7 +40,7 @@ ESSLLI 2016, Bolzano: <a href="http://esslli2016.unibz.it/?page_id=350">Natural 
 
 <h3>Ruhr-Universität Bochum</h3>
 
-WiSe 2020/21: Interpretation von Emojis (BSc)
+WiSe 2020/21: Interpretation von Emojis (BSc)  
 WiSe 2020/21: Linguistische Autorerkennung (MSc)
 
 
@@ -57,8 +57,7 @@ SoSe 2019: Classification Approaches for Social Media Text (BSc)
 WiSe 2018/19: <a href="2018foundling.html">Foundations of Linguistics</a> (MSc Cognitive Systems)  
 WiSe 2018/19: <a href="2018anlp.html">Advanced NLP</a> (MSc Cognitive Systems)  
 WiSe 2018/19: <a href="2018questions.html">Project Module: Questions and NLP</a> (MSc Cognitive Systems)  
-WiSe 2018/19: Shallow Discourse Parsing (block seminar MSc CogSys; with
-  Manfred Stede)
+WiSe 2018/19: Shallow Discourse Parsing (block seminar MSc CogSys; with Manfred Stede)
 
 SoSe 2018: Einführung in die Korpuslinguistik  
 SoSe 2018: Classification Approaches for Social Media Text (BSc)  
@@ -114,9 +113,8 @@ SoSe 2013: <a href="2013korpling.html">Einführung in die Korpuslinguistik</a>
 SoSe 2013: <a href="2013twitter.html">Computerlinguistische Analyse von Twitterdaten</a>
 
 <h3>University of Pennsylvania</h3>
-Spring 2007: Introduction to Syntax (LING 250); teaching assistant  
-Fall 2006: Introduction to Formal Linguistics (LING 106);
-  teaching assistant  
+Spring 2007: Introduction to Syntax (LING 250); teaching assistant    
+Fall 2006: Introduction to Formal Linguistics (LING 106); teaching assistant  
 Spring 2005-2007: Elementary German II (instructor: Ed Dixon); oral exam training
 
 
@@ -127,28 +125,24 @@ Member of 7 Ph.D. thesis committees
 <h3>Supervision of Ph.D., M.Sc., and B.Sc. theses:</h3>
 Yulia Clausen: <i>Discourse Variability in Social Media on the Example of Tag Questions in German.</i> Ph.D., Uni Potsdam,
 in progress.  
-Berfin Akta&#351;: <i>Coreference Strategies in Social Media.</i> Ph.D., Uni Potsdam,
-in progress.  
-
-Luzie Ahrens: <i>Ausbreitung neuer Wörter im deutschsprachigen Raum - eine Analyse mit Twitterdaten.</i> B.Sc., Uni Potsdam, 2020.
-Yulia Kurennaia: <i>Automatic True-False Question Generation for Educational Purposes.</i> M.Sc., Uni Potsdam, 2020.
-Carola Nitschke: <i>Eine Untersuchung über die dialektale
-Sprachverwendung am Beispiel des sozialen Online-Netzwerks Facebook.</i> B.Sc., Uni Potsdam, 2020.  
+Berfin Akta&#351;: <i>Coreference Strategies in Social Media.</i> Ph.D., Uni Potsdam, in progress.     
+   
+Luzie Ahrens: <i>Ausbreitung neuer Wörter im deutschsprachigen Raum - eine Analyse mit Twitterdaten.</i> B.Sc., Uni Potsdam, 2020.   
+Yulia Kurennaia: <i>Automatic True-False Question Generation for Educational Purposes.</i> M.Sc., Uni Potsdam, 2020.   
+Carola Nitschke: <i>Eine Untersuchung über die dialektale Sprachverwendung am Beispiel des sozialen Online-Netzwerks Facebook.</i> B.Sc., Uni Potsdam, 2020.  
 
 Rebekah Cramerus: <i>Formal to Informal Machine Translation.</i> M.Sc., Uni Potsdam, <b>2019</b>.  
-Julia Gantzlin: <i>Impact of Attention on Neural Question Answering
-Models.</i> B.Sc., Uni Potsdam, 2019.  
-Kerstin Klimek: <i>Automatic detection of high quality
-conversations on Twitter.</i> M.Sc., Uni Potsdam, 2019.  
+Julia Gantzlin: <i>Impact of Attention on Neural Question Answering Models.</i> B.Sc., Uni Potsdam, 2019.  
+Kerstin Klimek: <i>Automatic detection of high quality conversations on Twitter.</i> M.Sc., Uni Potsdam, 2019.  
 Romy Leue: <i>Ironie on: Die Interpretation von Emojis im ironischen Diskurs im Instant Messenger WhatsApp.</i> B.Sc., Uni Potsdam, 2019.  
 Philipp Sadler: <i>Spatial Attention as an Interface for Image Captioning Models.</i> M.Sc., Uni Potsdam, 2019.  
 Hellen Siewert: <i>Konversationeller und argumentativer Chatbot zu veganer Ernährung.</i> B.Sc., Uni Potsdam, 2019.  
 
 Seo Yon Lee: <i>Adapting speech recognition to specific speech patterns of speakers with agrammatic aphasia.</i> M.Sc., Uni Potsdam, <b>2018</b>.  
 Daniela Feinhals: <i>Hate Speech in deutschen und englischen Tweets.</i> B.Sc., Uni Potsdam, 2018.  
+Antoine Laufer: <i>Untersuchung der Syntax und Semantik von Emojis anhand eines Twitter-Diskurses.</i> B.Sc., Uni Potsdam, 2018.  
 Rebecca Reglin: <i>Strategien beim Lügen.</i> B.Sc., Uni Potsdam, 2018.  
 Pia Weißenhorn: <i>Automatische Identifikation und Normalisierung von Zeitausdrücken in deutschsprachigen rechtlichen Texten.</i> B.Sc., Uni Potsdam, 2018.  
-Antoine Laufer: <i>Untersuchung der Syntax und Semantik von Emojis anhand eines Twitter-Diskurses.</i> B.Sc., Uni Potsdam, 2018.  
 
 Anna Sopia Bolze: <i>Tendenz oder Negation? Welchen Beitrag liefert das expletive 'nicht' zur Bedeutung von biased questions des Deutschen?</i> B.Sc., Uni Potsdam, <b>2017</b>.  
 Sandra Müller: <i>Präpositionen als Konnektoren in medizinischen Texten.</i> B.Sc., Uni Potsdam, 2017.  
