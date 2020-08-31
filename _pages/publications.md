@@ -115,7 +115,7 @@ also <a href="twitter/index.html" >this separate page</a>.</p>
 OPT: Oslo–Potsdam–Teesside. Pipelining Rules, Rankers, and Classifier Ensembles for Shallow Discourse Parsing. </a>
 In: <i>Proceedings of the CoNLL-16 Shared Task</i>, Berlin,
   Germany. 2016. <a
-  href="papers/K16-2002.Presentation.pdf">[slides]</a><br/><a href="https://hub.docker.com/r/oslopots/oslopots-conll-2016/" >[code]</a>
+  href="../papers/K16-2002.Presentation.pdf">[slides]</a><br/><a href="https://hub.docker.com/r/oslopots/oslopots-conll-2016/" >[code]</a>
   </p>
   
 <p><b>Tatjana Scheffler</b> and Christopher CM Kyba. <a href="http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13080">Measuring Social Jetlag in Twitter Data.</a> In:
@@ -137,7 +137,7 @@ collocated with LREC, Portorož, Slovenia. 2016.</p>
 <p>Johannes Gontrum and <b>Tatjana Scheffler</b>. <a href="https://sites.google.com/site/nlp4cmc2015/proceedings"
   >Text-based Geolocation of German Tweets.</a> In:
   <i>Proceedings of the NLP4CMC 2015 Workshop at GSCL</i>, Duisburg-Essen,
-  Germany. 2015. <a href="papers/gontrum_scheffler-NLP4CMC-2015-twitgeo-final.pdf" >[pdf]</a></p>
+  Germany. 2015. <a href="../papers/gontrum_scheffler-NLP4CMC-2015-twitgeo-final.pdf" >[pdf]</a></p>
   
 <p>Elina Zarisheva and <b>Tatjana Scheffler</b>. <a
   href="http://www.sigdial.org/workshops/conference16/proceedings/pdf/SIGDIAL14.pdf"
@@ -147,7 +147,7 @@ Prague, Czech Republic, 2-4 September 2015.</p>
 <p><b>Tatjana Scheffler</b>, Johannes Gontrum, Matthias Wegel, and Steve
   Wendler. <a href="http://www.uni-hildesheim.de/konvens2014/data/konvens2014-workshop-proceedings.pdf" >Mapping German Tweets to Geographic Regions.</a> In:
   <i>Proceedings of the NLP4CMC Workshop at Konvens</i>, Hildesheim,
-  Germany. 2014. <a href="papers/konvens2014-tweegion.pdf" >[pdf]</a></p>
+  Germany. 2014. <a href="../papers/konvens2014-tweegion.pdf" >[pdf]</a></p>
   
 <p>
 <b>Tatjana Scheffler</b>. <a
@@ -157,7 +157,7 @@ Prague, Czech Republic, 2-4 September 2015.</p>
 
 <p>
   Uladzimir Sidarenka, <b>Tatjana Scheffler</b>, and Manfred
-  Stede. <a href="papers/sidarenka_scheffler_stede2013.pdf" >Rule-Based Normalization of German Twitter Messages.</a> In
+  Stede. <a href="../papers/sidarenka_scheffler_stede2013.pdf" >Rule-Based Normalization of German Twitter Messages.</a> In
   <i>Proceedings of the International Conference of the German Society
   for Computational Linguistics and Language Technology</i>, GSCL,
   Darmstadt, Germany. 2013.</p>
@@ -202,10 +202,10 @@ Reithinger. <a href="http://dx.doi.org/10.1109/SLT.2010.5700895">User Simulation
 <p>S. Möller, R. Schleicher, D. Butenkov,
 K.-P. Engelbrecht, F. Gödde, <b>T. Scheffler</b>, R. Roller, and
 N. Reithinger.
-<a href="papers/easds2009.pdf">Usability Engineering for Spoken Dialog Systems via Statistical User
+<a href="../papers/easds2009.pdf">Usability Engineering for Spoken Dialog Systems via Statistical User
   Models.</a>  In <i>First International Workshop on Spoken Dialogue Systems
 Technology (IWSDS-2009)</i>, Kloster Irsee, Germany, 2009.
-<a href="papers/easds2009.pdf">[.pdf]</a>
+<a href="../papers/easds2009.pdf">[.pdf]</a>
 </p>
 
 <p><b>Tatjana Scheffler</b>, Roland Roller and Norbert Reithinger.
@@ -213,7 +213,7 @@ Technology (IWSDS-2009)</i>, Kloster Irsee, Germany, 2009.
 In B. Mertsching, M. Hund, and Z. Aziz, eds., <i>KI 2009:
 Advances in Artificial Intelligence</i>, 32nd Annual Conference on Artificial
 Intelligence, Paderborn, Germany, pp. 209-216, LNAI 5803, Springer,
-2009. <a href="papers/ki2009.pdf">[.pdf]</a> 
+2009. <a href="../papers/ki2009.pdf">[.pdf]</a> 
 </p>
  
 <p><b>Tatjana Scheffler</b>, Roland Roller and Norbert Reithinger.
@@ -221,7 +221,7 @@ Intelligence, Paderborn, Germany, pp. 209-216, LNAI 5803, Springer,
 In A. Jönsson, J. Alexandersson, D. Traum, and I. Zukerman,
 eds., <i>Proceedings of the 6th IJCAI Workshop on Knowledge and
 Reasoning in Practical Dialog Systems</i>, Pasadena, CA, pp. 93-98,
- 2009. <a href="papers/krpd2009.pdf">[.pdf]</a> </p> 
+ 2009. <a href="../papers/krpd2009.pdf">[.pdf]</a> </p> 
 
 <p><b>Tatjana Scheffler</b>.
 <a href="http://repository.upenn.edu/pwpl/vol15/iss1/21/">Evidentiality and German Attitude Verbs.</a>
@@ -261,17 +261,17 @@ In <i>Proceedings of TAG+8</i>, Sydney, Australia,
 <p><b>Tatjana Scheffler</b>.
 Syntax and Semantics of Causal <i>denn</i> in German.
 In <i>Proceedings of the 15th Amsterdam Colloquium</i>,
-Amsterdam, Netherlands, 2005. <a href="papers/scheffler-AC05.pdf">[.pdf]</a> </p>
+Amsterdam, Netherlands, 2005. <a href="../papers/scheffler-AC05.pdf">[.pdf]</a> </p>
 
 <p><b>Tatjana Scheffler</b>.
 <a href="http://www.cs.rutgers.edu/TAG+7/papers/scheffler.pdf">Semantic reconstruction of <i>how many</i>-questions in LTAG.</a>
 In <i>Proceedings of TAG+7</i>, Vancouver,
-Canada, 2004.  <a href="papers/scheffler-Tag7.pdf">[.pdf]</a></p>
+Canada, 2004.  <a href="../papers/scheffler-Tag7.pdf">[.pdf]</a></p>
 
 <p>Laura Kallmeyer and <b>Tatjana Scheffler</b>.
 <a href="http://www.cs.rutgers.edu/TAG+7/papers/kallmeyer-a.pdf">LTAG analysis for pied-piping and stranding of
 wh-phrases.</a>
-In <i>Proceedings of TAG+7</i>, Vancouver, Canada, 2004. <a href="papers/kallmeyer-scheffler-Tag7.pdf">[.pdf]</a> </p>
+In <i>Proceedings of TAG+7</i>, Vancouver, Canada, 2004. <a href="../papers/kallmeyer-scheffler-Tag7.pdf">[.pdf]</a> </p>
 
 
 
@@ -284,7 +284,7 @@ Ph.D. dissertation, University of Pennsylvania, Philadelphia, USA,
 
 <p><i>A Semantics Interface and Syntactic Realizer for TAG.</i> 
 Master's Thesis (<i>Diplom</i>), University of the Saarland, Saarbr&uuml;cken, Germany,
-2003. <a href="papers/scheffler-msthesis.ps.gz">[.ps.gz]</a>, <a href="papers/scheffler-msthesis.pdf">[.pdf]</a>, <a href="papers/msthesis.bib">[BibTex]</a></p> 
+2003. <a href="../papers/scheffler-msthesis.ps.gz">[.ps.gz]</a>, <a href="../papers/scheffler-msthesis.pdf">[.pdf]</a>, <a href="../papers/msthesis.bib">[BibTex]</a></p> 
 
 
 
@@ -309,7 +309,7 @@ Germany, March 14, 2013. <a href="twitter/Posters/2013-dgfs-cl-korpuserstellung.
 Formalizing Construction Grammar in TAG. 
 Presented at the <i>3rd International Conference on 
   Construction Grammar (ICCG3)</i>, Marseille, France, July
-  2004. <a href="papers/scheffler-wallenberg2004-tag-cxg-abstract.pdf" >[abstract]</a> <a href="papers/scheffler-wallenberg2004-tag-cxg.pdf" >[poster]</a> </p>
+  2004. <a href="../papers/scheffler-wallenberg2004-tag-cxg-abstract.pdf" >[abstract]</a> <a href="../papers/scheffler-wallenberg2004-tag-cxg.pdf" >[poster]</a> </p>
 
 
 
@@ -360,26 +360,26 @@ Logos-Verlag, Berlin, 2001.</p>
 <p>
 <h3>2005 and earlier</h3>
 <ul>
-<li><a href="papers/scheffler-nom.pdf"><i>Nominalization in
+<li><a href="../papers/scheffler-nom.pdf"><i>Nominalization in
 German</i></a>, November 2005.
-<li><a href="papers/scheffler2005-connectives-ms.pdf"><i>A
+<li><a href="../papers/scheffler2005-connectives-ms.pdf"><i>A
   Cross-Linguistic Look at Discourse Connectives</i></a>, July 2005.</li>
-<li><a href="papers/scheffler-ellipsis.pdf"><i>Ellipsis, Subsentential
+<li><a href="../papers/scheffler-ellipsis.pdf"><i>Ellipsis, Subsentential
 Speech, and the Contextualism Discussion</i></a>, May 2005.
-<li><a href="papers/surprise.ps.gz"><i>Surprise</i></a>, January 2005.
-<li><a href="papers/lezgian.pdf"><i>Stemless Lezgian Inflectional Morphology</i></a>, 
+<li><a href="../papers/surprise.ps.gz"><i>Surprise</i></a>, January 2005.
+<li><a href="../papers/lezgian.pdf"><i>Stemless Lezgian Inflectional Morphology</i></a>, 
   December 2004.
-<li><a href="papers/gametheory.ps.gz"><i>Quantifier Scope and Game-Theoretic 
+<li><a href="../papers/gametheory.ps.gz"><i>Quantifier Scope and Game-Theoretic 
   Semantics</i></a>, May 2004.
-<li><a href="papers/slavicagree.pdf"><i>Theoretical Implications of Slavic Agreement</i></a>,
+<li><a href="../papers/slavicagree.pdf"><i>Theoretical Implications of Slavic Agreement</i></a>,
   May 2004.
-<li><a href="papers/how-many.pdf"><i>Semantic Reconstruction in LTAG</i></a>, 2003.
-<li><a href="papers/npextraction.pdf"><i>Semantics of Pied-Piping and Stranding of Embedded wh-Phrases in LTAG</i></a>, 2003.
-<li><a href="papers/case.ps.gz"><i>Russian numerals: An Example of Case Treatment in Slavic</i></a> (in a seminar on "HPSG for Slavic"), 2003.
-<li><a href="papers/metonymy.ps.gz"><i>Corpus-based Approaches to Logical Metonymy</i></a>, 2003.
-<li><a href="papers/namemap.ps">Name Mapping</a>, May 20, 2002
-<li><a href="papers/dialog-hausarbeit.ps.gz"><i>Intentionale Struktur von Diskursen</i></a> (Intentional Structure of Discourse; auf Deutsch), March 30, 2001.
-<li><a href="papers/chinesKontrolle.ps.gz"><i>Kontrollph&auml;nomene im Chinesischen</i></a> (Control Phenomena in Chinese; auf Deutsch), March 14, 2001.
+<li><a href="../papers/how-many.pdf"><i>Semantic Reconstruction in LTAG</i></a>, 2003.
+<li><a href="../papers/npextraction.pdf"><i>Semantics of Pied-Piping and Stranding of Embedded wh-Phrases in LTAG</i></a>, 2003.
+<li><a href="../papers/case.ps.gz"><i>Russian numerals: An Example of Case Treatment in Slavic</i></a> (in a seminar on "HPSG for Slavic"), 2003.
+<li><a href="../papers/metonymy.ps.gz"><i>Corpus-based Approaches to Logical Metonymy</i></a>, 2003.
+<li><a href="../papers/namemap.ps">Name Mapping</a>, May 20, 2002
+<li><a href="../papers/dialog-hausarbeit.ps.gz"><i>Intentionale Struktur von Diskursen</i></a> (Intentional Structure of Discourse; auf Deutsch), March 30, 2001.
+<li><a href="../papers/chinesKontrolle.ps.gz"><i>Kontrollph&auml;nomene im Chinesischen</i></a> (Control Phenomena in Chinese; auf Deutsch), March 14, 2001.
 </ul>
 </p>
 
