@@ -1,0 +1,418 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta name="Author" content="Tatjana Scheffler">
+   <title>Advanced NLP, winter semester 2017/2018</title>
+   <meta name="description" content="Tatjana Scheffler - Twitterseminar">
+   <link href="../../tshp.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+
+<div  id="container">
+<h1>Advanced Natural Language Processing</h1>
+
+<p>
+  <a href="#schedule">Schedule</a> 
+</p>
+
+<h2>Course organization</h2>
+
+<p>
+<table cellspacing="10">
+  <TR>
+    <TD width="100">Instructor:</TD>
+    <TD><a href="http://www.ling.uni-potsdam.de/~scheffler/">Tatjana
+      Scheffler</a></TD>
+  </TR>
+  <TR valign="top">
+    <TD>TA:</TD>
+    <TD>Jens Johannsmeier</TD>
+  </TR>
+  <TR valign="top">
+    <TD>Time:</TD>
+    <TD>Tuesdays & Fridays, 10 a.m.-12 </TD>
+  </TR>
+   <TR>
+    <TD>Place:</TD>
+    <TD>Golm, building 28, room 104 (Tue)<br />
+      Golm, building 12, room 001 (Fri)</TD>
+  </TR>
+   <TR>
+    <TD>Modules:</TD>
+    <TD>CSBM1 (M.Sc. Cognitive Systems)</TD>
+  </TR>
+   <TR>
+    <TD>Moodle:</TD>
+    <TD>Please register on the course's Moodle site.</TD>
+  </TR>
+</table>
+</p>
+
+<h2>Requirements</h2>
+<ul>
+<li>regular readings</li>
+<li>active participation</li>
+<li>completion of the assignments: At least 5 (out of 6) assignments
+must be turned in. 
+I will not accept late assignments. </li>
+</ul>
+<h2>Grading policy</h2>
+
+<h3>Passing the course</h3>
+<p>To be admitted to the module exam, you need to pass the course. For
+this, we will grade the best two assignments out of each half of the
+semester (i.e., the best 2 from the first 3 + the best 2 from the
+second 3). At least 250 points in total (out of 400) in these 4
+assignments are needed to pass the course. 
+</p>
+
+<h3>Module grade</h3>
+<p>
+The grade will be based on a collaborative <b>final project</b>, to be completed during the
+semester break. There are four graded deliverables for this
+project:</p>
+<p>
+<ol>
+  <li>a planning paper (individual)</li>
+  <li>a project presentation (group)</li>
+  <li>the implemented project (group)</li>
+  <li>a project report (individual)</li>
+</ol>
+</p>
+<p>
+The grade will be composed equally from these four parts. Details will
+be discussed in class.
+</p>
+
+<h2>Course description</h2>
+
+<p>
+This class is the graduate-level introduction to computational
+linguistics, a first-year class in the MSc Cognitive Systems. The
+purpose of this class is to introduce the important concepts, models
+and methods used in natural language processing (NLP). After the successful
+completion of this course, students should be able to (i) read and
+understand the scientific literature in the area of computational
+linguistics and (ii) start implementing their own NLP projects.
+</p>
+<p>
+We will cover the following topics:
+</p>
+<ul>
+  <li>statistical models of language</li>
+  <li>part of speech tagging (HMMs)</li>
+  <li>syntactic parsing (PCFGs, others?)</li>
+  <li>semantics</li>
+  <li>machine translation</li>
+  <li>speech processing</li>
+  <li>and more</li>
+</ul>
+
+<h2><a id="schedule" >Schedule</a></h2>
+
+<p>Readings in J/M are marked for the <a
+href="https://web.stanford.edu/~jurafsky/slp3/" >third edition</a>
+unless marked otherwise.
+</p>
+
+</div>
+<div id="bigtable">
+<table frame="void" rules="none" width="100%">
+<tbody>
+<tr>
+<th>Date</td>
+<th>Topic</td>
+<th>Readings</td>
+<th>Assignments</td>
+</tr>
+<tr>
+<td>T 10/17</td>
+<td><a href="" >Introduction</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>F 10/20</td>
+<td>Review: Probability Theory</td>
+<td>Harald Goldstein, <a
+  href="http://folk.uio.no/nhfehr/Goldstein%20-%20Introduction%20to%20Probability%20Theory.pdf"
+  >A short introduction to probability and related concepts</a><br />
+And/Or: Manning/Schütze, chapter 2.1<br />
+Optional:  Kevin Murphy, <a href="http://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/reading/bernoulli.pdf" >Binomial and multinomial distributions</a></td>
+<td></td>
+</tr>
+<tr>
+<td>T 10/24</td>
+<td>N-grams</td>
+<td>Jurafsky/Martin, chapters 4.1-4.2 <br /><a href="https://www.youtube.com/watch?v=fCn8zs912OE" >A video about Zipf's law</a></td>
+<td>A1 released</td>
+</tr>
+<tr>
+<td>F 10/27</td>
+<td><i>practical concerns</i> (Jens)</td>
+<td>lab session for discussion of the assignments, Python, NLTK, etc.</td>
+<td></td>
+</tr>
+<tr>
+<td>T 31/10</td>
+<td><span style="color: #ff0000;">holiday - no class</span></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>F 11/3</td>
+<td>Smoothing language models</td>
+<td>Jurafsky/Martin, chapters 4.5-4.7<br />
+Opt.: Manning/Schütze, chapters 6.2-6.3 </td>
+<td></td>
+</tr>
+<tr>
+<td>T 11/7</td>
+<td>Part of speech tagging</td>
+<td>Jurafsky/Martin, chapters 9.1-9.5, 10.1-10.5 </td>
+<td>A1 due, A2 released</td>
+</tr>
+<tr>
+<td>F 11/10</td>
+<td>HMM Training</td>
+<td>Jurafsky/Martin, rest of chapters 9+10 <br />
+<a href="http://www.cs.jhu.edu/~jason/465/PowerPoint/lect24-hmm.xls"
+  >HMM spreadsheet</a>, Eisner's ice cream example<br />
+<a href="http://www.cs.jhu.edu/~jason/papers/eisner.tnlp02.pdf" >Eisner's paper explaining how to work with the spreadsheet</a></td>
+<td></td>
+</tr>
+<tr>
+<td>T 11/14</td>
+<td><i>discussion of A1</i></td>
+<td><span style="color: #2288aa;">be prepared to present your solutions!</span></td>
+<td></td>
+</tr>
+<tr>
+<td>F 11/17</td>
+<td><i>tutorial session</i> (Jens)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>T 11/21</td>
+<td>Context free grammars, CKY parsing</td>
+<td>Jurafsky/Martin, chapter 12 (-12.4), <br /> J/M chapter 11 as
+  background<br />
+  further reading: Santorini/Kroch, <a href="http://www.ling.upenn.edu/~beatrice/syntax-textbook/" >Online syntax textbook</a><br />
+<a href="http://lxmls.it.pt/2015/cky.html">CKY animation</a></td>
+<td>A2 due, A3 released</td>
+</tr>
+<tr>
+<td>F 11/24</td>
+<td><i>discussion of A2</i> (Jens)</td>
+<td><span style="color: #2288aa;">be prepared to present your solutions!</span></td>
+<td></td>
+</tr>
+<tr>
+<td>T 11/28</td>
+<td>PCFGs</td>
+<td>Jurafsky/Martin, chapters 13.1-13.5, 13.7</td>
+<td></td>
+</tr>
+<tr>
+<td>F 12/1</td>
+<td>Training PCFGs</td>
+<td>Jurafsky/Martin, chapter 13<br />
+Manning/Schütze, chapter 11<br />
+Michael Collins, <a href="http://www.cs.columbia.edu/~mcollins/io.pdf" >The inside-outside algorithm.</a> </td>
+<td></td>
+</tr>
+<tr>
+<td>T 12/5</td>
+<td>Advanced PCFG models</td>
+<td>Mark Johnson (1998), <a
+  href="http://www.aclweb.org/anthology/J/J98/J98-4004.pdf" >PCFG
+  Models of Linguistic Tree Representations </a>(esp. on parent
+  annotations)<br />
+Michael Collins, <a
+  href="http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/lexpcfgs.pdf"
+  >Lexicalized PCFGs</a><br />
+Dan Klein/Chris Manning (2003), <a href="http://www.aclweb.org/anthology/P/P03/P03-1054.pdf" >Accurate unlexicalized parsing</a></td>
+<td>A3 due, A4 released</td>
+</tr>
+<tr>
+<td>F 12/8</td>
+<td><i>discussion of A3</i></td>
+<td><span style="color: #2288aa;">be prepared to present your
+  solutions!</span></td>
+<td></td>
+</tr>
+<tr>
+<td>T 12/12</td>
+<td>Dependency parsing</td>
+<td>McDonald/Pereira/Ribarov/Hajic (2005),
+  <a href="http://www.aclweb.org/anthology/H05-1066" >Non-projective
+  Dependency Parsing using Spanning Tree Algorithms</a><br />
+Joakim Nivre (2008), <a href="http://www.aclweb.org/anthology/J08-4003" >Algorithms for Deterministic Incremental Dependency Parsing</a></td>
+<td></td>
+</tr>
+<tr>
+<td>F 12/15</td>
+<td><i>tutorial session (Jens)</i></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>T 12/19</td>
+<td>Statistical machine translation: Alignments</td>
+<td>Jurafsky/Martin (2nd ed.), ch. 25 (through 25.6)<br />
+Adam Lopez, <a
+  href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.421.5497&rep=rep1&type=pdf"
+  >Word Alignment and the Expectation-Maximization Algorithm</a>
+  tutorial (try <a href="https://pdfs.semanticscholar.org/8338/914856defebe908394c2b33dc43d350c5dd0.pdf?_ga=1.153336056.1178462967.1483354457" >here</a>) <br />
+  <a href="http://mt-class.org/" >http://mt-class.org/</a><br />
+  <a href="http://mttalks.ufal.ms.mff.cuni.cz/index.php?title=Main_Page" >MT Talks</a></td>
+<td>A4 due</td>
+</tr>
+<tr>
+<td>
+12/22-26</p>
+</td>
+<td><span style="color: #ff0000;">no class (winter break)</span></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+12/29-1/2</p>
+</td>
+<td><span style="color: #ff0000;">no class (winter break)</span></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>F 1/5</td>
+<td>Phrase-based machine translation</td>
+<td>Jurafsky/Martin (2nd ed.), ch. 25</td>
+<td>A5 released</td>
+</tr>
+<tr>
+<td>T 1/9</td>
+<td><i>discussion of A4</i></td>
+<td><span style="color: #2288aa;">be prepared to present your solutions!</span></td>
+<td></td>
+</tr>
+<tr>
+<td>F 1/12</td>
+<td>Syntax-based machine translation</td>
+<td>David Chiang, <a href="http://www.mitpressjournals.org/doi/pdf/10.1162/coli.2007.33.2.201" >Hierarchical phrase-based translation</a>. Computational Linguistics, 2007.</td>
+<td></td>
+</tr>
+<tr>
+<td>T 1/16</td>
+<td>Semantic parsing</td>
+<td>Zettlemoyer/Collins, <a href="http://www.cs.columbia.edu/~mcollins/papers/uai05.pdf" >Learning to Map Sentences to
+  Logical Form. Structured Classification with Probabilistic
+  Categorial Grammars</a>. 2005 <br />
+Wong/Mooney, <a href="http://www.cs.utexas.edu/~ml/papers/wasp-naacl-06.pdf" >Learning for Semantic Parsing with
+  Statistical Machine Translation</a>. HLT-NAACL, 2006 <br />
+Opt.: Mark Steedman, <a href="http://www.inf.ed.ac.uk/teaching/courses/nlg/readings/ccgintro.pdf" >A very short introduction to CCG</a>. 1996 </td>
+<td></td>
+</tr>
+<tr>
+<td>F 1/19</td>
+<td>Lexical semantics</td>
+<td>Jurafsky/Martin, chs. 15 + 16 <br />
+Further reading:  Mitchell/Lapata (2008), <a href="http://anthology.aclweb.org/P/P08/P08-1028.pdf" >Vector-based models of
+  semantic composition</a>; 
+Baroni/Zamparelli (2010), <a href="http://www.aclweb.org/anthology/D/D10/D10-1115.pdf" >Nouns are vectors, adjectives are matrices</a</td>
+<td>A5 due, A6 released</td>
+</tr>
+<tr>
+<td>T 1/23</td>
+<td>Speech recognition</td>
+<td>Jurafsky/Martin (2nd ed.), ch. 9<br />
+Links for further reading: <br />
+<a href="https://arxiv.org/abs/1610.05256" >"Human parity" speech recognition</a><br />
+<a href="http://languagelog.ldc.upenn.edu/nll/?p=28894" >Language log on human parity speech recognition</a><br />
+<a href="https://www.google.com/intl/en/chrome/demos/speech.html" >Google speech API web demo</a><br />
+<a href="http://sebastian.germes.in/blog/2011/09/googles-speech-api/" >S. Germesin on using the speech API remotely</a></td>
+<td></td>
+</tr>
+<tr>
+<td>F 1/26</td>
+<td>Speech synthesis</td>
+<td>Jurafsky/Martin (2nd ed.), ch. 8<br />
+Links for further reading/system samples: <br />
+<a href="http://mary.dfki.de" >MARY TTS (DFKI)</a><br />
+<a
+  href="https://deepmind.com/blog/wavenet-generative-model-raw-audio/"
+  >WaveNet: Generating raw audio</a><br />
+<a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41539.pdf">Deep Learning in Speech Synthesis</a><br />
+<a href="http://emosamples.syntheticspeech.de/" >Expressive and emotional synthetic speech</a>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>T 1/30</td>
+<td>LDA</td>
+<td>David Blei, <a href="http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf" >Probabilistic topic models</a>. 2012<br />
+Links for further reading: <br />
+Steyvers/Griffiths, <a
+  href="http://psiexp.ss.uci.edu/research/papers/SteyversGriffithsLSABookFormatted.pdf"
+  >Probabilistic Topic Models</a>. 2007.<br />
+Darling, <a href="http://u.cs.biu.ac.il/~89-680/darling-lda.pdf" >A Theoretical and Practical Implementation
+Tutorial on Topic Modeling and Gibbs Sampling</a>.</td>
+<td></td>
+</tr>
+<tr>
+<td>F 2/2</td>
+<td>Intro to deep neural networks</td>
+<td>Richard Socher,<a href="http://nlp.stanford.edu/~socherr/thesis.pdf" > Recursive Deep Learning for Natural Language
+  Processing and Computer Vision</a> (Chapter 2). 2014<br />
+Further reading (for intuitions): <a
+  href="http://karpathy.github.io/neuralnets/"
+  >http://karpathy.github.io/neuralnets/</a>, <a href="http://neuralnetworksanddeeplearning.com/chap4.html" >http://neuralnetworksanddeeplearning.com/chap4.html</a></td>
+<td>A6 due</td>
+</tr>
+<tr>
+<td>T 2/6</td>
+<td><i>presentations of final projects</i></td>
+<td><span style="color: #2288aa;">all</span></td>
+<td></td>
+</tr>
+<tr>
+<td>F 2/9</td>
+<td><i>final discussion</i> </td>
+<td><span style="color: #2288aa;">be prepared to present your
+  solutions of A5 + A6!</span></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="container">
+
+<h2>Literature</h2>
+
+<ul>
+  <li>Dan Jurafsky and James Martin, <i>Speech and Language
+  Processing</i>. (2008 or 2013 edition)</li>
+  <li>Chris Manning and Hinrich Schütze, <i>Foundations of Statistical Natural Language Processing</i>. </li>
+</ul>
+<p>
+Most computational linguists own both of these books. We will assign weekly
+readings, so you should ensure you get your own copy or have access to
+the copies that are available in the university library.
+</p>
+
+<ul>
+  <li><i>Natural Language Processing with Python</i>. (the NLTK book)
+  Available <a href="http://www.nltk.org/book/" >here</a>.</li>
+</ul>
+
+
+</div>
+
+<div class="foot">
+<!-- hhmts start -->Last modified: Tue Jan 30 11:42:58 CET 2018 <!-- hhmts end -->
+</div>
+</body>
+</html>

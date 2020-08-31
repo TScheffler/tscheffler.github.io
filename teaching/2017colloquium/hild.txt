@@ -1,0 +1,5 @@
+Past and Current Research With the Humanoid Robot Myon
+Manfred Hild, Simon Untergasser (Beuth Hochschule, Berlin)
+ 
+The humanoid robot Myon has been built from scratch as a platform that is fully dedicated to research in Cognitive Systems, Robotics, and Human-Machine-Interaction. We will briefly address the underlying design principles of Myon and shed some light on past collaborative research within the EU project ALEAR (Artificial Language Evolution on Autonomous Robots).
+In the main part of the presentation we will first give an overview on current research topics within the Neurorobotics Research Laboratory (NRL) and then focus on a brand new approach where we strive to implement communicative competencies as a multi-modal grounded kernel around which higher-level-systems of the robot will be built, instead of adding speech recognition as a mere tool to control an otherwise self-sufficient robot.

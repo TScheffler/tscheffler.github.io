@@ -1,0 +1,6 @@
+Situated Reference Resolution for Pedestrian Wayfinding Systems
+Jana Götze (2txt, Berlin)
+
+Automatically guiding a pedestrian to a location in an urban environment and doing so using only language requires various sources of knowledge to be available. While the theory of how humans give navigation instructions to each other is being studied extensively, few studies investigate how this knowledge can be transferred to systems to be used in real time, to give turn-by-turn instructions based on where the user is.
+
+In this talk, I will present work on how to resolve referring expressions that a pedestrian might use, for example when trying to clarify a system instruction ("Turn left at the bakery" - "Do you mean the bakery next to the book shop?"). In such a situation, the system needs to understand exactly which objects in the geographical environment the user is referring to in order to give a helpful answer. I will present what special issues geographic context introduces to the task of reference resolution and how we collected and used data from human-machine interactions to automatize the reference resolution process.

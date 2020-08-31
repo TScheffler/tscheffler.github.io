@@ -1,0 +1,4 @@
+(1) What are parts of speech, how can we determine what PoS something is?
+(2) What is a constituent? What are constituency tests? (See this online syntax textbook for a great introduction: https://www.ling.upenn.edu/~beatrice/syntax-textbook/ch2.html)
+(3) What is an argument? What is an adjunct?
+(4) How do we represent syntactic structure?

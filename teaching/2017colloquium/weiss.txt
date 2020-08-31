@@ -1,0 +1,4 @@
+Quality of Spoken Dialog Systems
+Benjamin Weiss (TU Berlin)
+
+Voice interfaces are currently capturing the market of personal services. Still, the dominant paradigm applied is the one-shot interaction. However, when engaging in a conversations with more than just one turn, evaluation becomes tricky. After introducing a functional architecture of conversational systems, I will present theories to support defining evaluation concepts for a systematic approach of evaluation. Empirical methods comprise listening tests (e.g. for Text2Speech quality), laboratory experiments, and field-like methods. The potential application of established approaches from engineering (aggregating log-data over time, PARADISE framework), social psychology (social facilitation-inhibition, attributions), and linguistics (Bernsen's extension of Grice's Maxims) will be presented.

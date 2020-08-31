@@ -1,0 +1,4 @@
+How do we Hate? Defining and detecting hate speech (on Twitter).
+Zeerak Waseem Butt (Sheffield, UK)
+
+Hate speech detection has recently seen an increasing amount of attention in natural language processing. While this topic has the benefit of many years of research in social sciences, relatively little work in the NLP touches upon this body of work, the biases and errors annotators introduce and their consequences on classification methods and methods to mitigate the influence of annotation errors on this domain.

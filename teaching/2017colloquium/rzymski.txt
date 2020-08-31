@@ -1,0 +1,14 @@
+Scope Disambiguation Is a Ranking Problem
+Christoph Rzymski (Jena)
+
+Order of evaluation undoubtedly plays a crucial role in natural language
+systems. The order in which we process, and perceive, information,
+fundamentally influences our understanding of any composite natural
+language expression. This presentation argues that a better
+understanding and a more thorough application of order of evaluation
+concepts helps with tackling the unwieldy and error-prone task of
+(automated) scope disambiguation. Specifically, I argue that
+scope-bearing elements can be ranked, with each ranking permutation
+representing (potentially) different semantic and pragmatic properties
+and interpretations. Said rankings, in turn, can be used to build and
+train systems for scope disambiguation.
