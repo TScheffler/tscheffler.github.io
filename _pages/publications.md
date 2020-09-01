@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my papers on <u><a href="http://scholar.google.de/citations?user=E-br2oUAAAAJ">my Google Scholar profile</a>.</u> I am happy to share preprints of any papers you can't find here, please send me an email.
+You can also find my papers on <a href="http://scholar.google.de/citations?user=E-br2oUAAAAJ">my Google Scholar profile</a>. I am happy to share preprints of any papers you can't find here, please send me an email.
 
   
 <p>
