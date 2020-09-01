@@ -18,7 +18,7 @@ You can also find my papers on <u><a href="http://scholar.google.de/citations?us
 </p>
 
 <p>For posters on the analysis of Twitter conversations, see
-also <a href="twitter/index.html" >this separate page</a>.</p>
+also <a href="../twitter/index.html" >this separate page</a>.</p>
 
 <p>I've supervised and collected a <a href="https://qud-comp.github.io/QUD-comp/">set of cool student projects on computational
   approaches to QUDs</a>, it can be found on GitHub.</p>
@@ -29,8 +29,8 @@ also <a href="twitter/index.html" >this separate page</a>.</p>
 <p><b>Scheffler, Tatjana</b>. <a href="http://www.degruyter.com/view/product/186382"><i>Two-dimensional Semantics. Clausal
   Adjuncts and Complements.</i></a>
   Berlin, Boston: De Gruyter Mouton, 2013. <a
-  href="papers/scheffler2013.bib">[BibTex]</a> <a
-  href="dissertation.html">[more info]</a>
+  href="../papers/scheffler2013.bib">[BibTex]</a> <a
+  href="../papers/dissertation.html">[more info]</a>
   Thoroughly revised version of my 2008 dissertation.</p>
 
 
