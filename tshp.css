@@ -1,0 +1,127 @@
+/* written 2013 by tatjana scheffler for my hp */
+
+body {
+  background-color: #ffffff;
+  font-family: georgia, times, serif;
+  line-height: 1.4em;
+}
+
+/* links */
+
+a:link {
+  color: #0D2C5A;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #8186A8;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #DE9800;
+  text-decoration: none;
+}
+
+
+/* other stuff */
+
+#container {
+	margin-left: 1em;
+	margin-right: auto;
+	width: 90%;
+	max-width: 40em;
+}
+
+#bigtable {
+	margin-left: 1em;
+	margin-right: auto;
+	width: 90%;
+	max-width: 80em;
+}
+
+#pub {
+	margin-left: 1em;
+	margin-right: auto;
+	width: 90%;
+	max-width: 40em;
+}
+
+#pub p {
+  margin-bottom: 3ex;
+  margin-top: 1ex;
+  margin-left: 2em;
+  margin-right: 1em;
+}
+
+p {
+  margin-bottom: 1ex;
+  margin-top: 1ex;
+  margin-left: 2em;
+  margin-right: 1em;
+}
+
+ul { 
+  list-style-type: circle;
+  list-style-position: outside;
+  margin-left: 3em;
+  padding: 0px;
+}
+
+ol { 
+  list-style-position: outside;
+  margin-left: 3em;
+  padding: 0px;
+}
+
+h1 {
+  line-height: 120%;
+  font-size: large;
+  font-style: normal;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+  margin-bottom: 1ex;
+  margin-top: 2ex;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+h3 {
+  font-size: medium;
+  font-style: italic;
+  font-weight: normal; 
+  margin-left: 1em;
+	margin-top: 1em;
+	margin-bottom: 0.62em;
+}
+
+table {    
+    border: none;
+    text-align: left;
+}
+
+th, td {
+    border: none;
+    text-align: left;
+    padding: 5px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2}
+
+div.main {
+}
+
+div.foot {
+  font-size: smaller;
+}
+
+img {
+
+    vertical-align: middle;
+
+}
