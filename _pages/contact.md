@@ -16,7 +16,7 @@ by appointment via Zoom, please contact me by email
 Office
 ----
 
-tbd.
+[GC 7/138](https://www.ruhr-uni-bochum.de/anreise/download/RUB-Lageplan.pdf)
 
 Postal address
 ----
@@ -31,6 +31,6 @@ Universitätsstr. 150
 Contact
 ----
 
-* Phone: tbd.
+* Phone: +49 234 32 21471
 * Email: firstname.lastname@rub.de
 * Twitter: [@tschfflr](https://www.twitter.com/tschfflr)
