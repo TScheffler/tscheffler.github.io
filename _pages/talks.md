@@ -18,7 +18,7 @@ Invited talks
 
 <p><i>Discourse level variability in social
 media.</i> Colloquium “Multilingualism, language
-contact, and variation”, Humbold-University Berlin. June 25, 2020.</p>
+contact, and variation”, Humboldt-University Berlin. June 25, 2020.</p>
 <p><i>'Because' and 'if' gone astray: Operators in different
 dimensions.</i> University of Konstanz Linguistics Department
   Colloquium. June 2008.</p>
@@ -32,10 +32,11 @@ Swarthmore College Linguistics Speaker Series. March 6, 2007.
 Workshops
 -----
 
+<p><i>Digitale Textproduktion und Computerlinguistik - Chancen und Risiken</i>. Impulsvortrag beim <a href="https://www.uni-due.de/comein/">ComeIn Digitalisierungsprojekt</a>, Ruhr-Universität Bochum/online. September 2020.
+
 <p><i>Explicitness and implicitness of discourse relations across
 social media.</i> Workshop <a href="https://www.angl.hu-berlin.de/news/conferences/Archive/2020/workshop-coherence-relations">"Explicit and implicit coherence relations:
-Different, but how exactly?"</a>, Humboldt-Universität zu Berlin, Berlin,
-Germany. January 2020. </p>
+Different, but how exactly?"</a>, Humboldt-Universität zu Berlin/online. January 2020. </p>
 
 <p><i>Variability of German question tags</i> (with Yulia Clausen and
 Manfred Stede), <a href="https://www.helsinki.fi/en/conferences/discourse-pragmatic-variation-change-4" >DiPVaC 4 conference</a>, Helsinki, Finland, May 2018.</p>
