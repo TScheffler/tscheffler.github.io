@@ -40,8 +40,8 @@ ESSLLI 2016, Bolzano: <a href="http://esslli2016.unibz.it/?page_id=350">Natural 
 
 <h3>Ruhr-Universität Bochum</h3>
 
-WiSe 2020/21: Interpretation von Emojis (BSc)  
-WiSe 2020/21: Linguistische Autorerkennung (MSc)
+WiSe 2020/21: Interpretation von Emojis (BA)  
+WiSe 2020/21: Linguistische Autorerkennung (MA)
 
 
 <h3>Universität Potsdam</h3>
