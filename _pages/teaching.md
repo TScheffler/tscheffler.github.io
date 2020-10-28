@@ -120,13 +120,15 @@ Spring 2005-2007: Elementary German II (instructor: Ed Dixon); oral exam trainin
 
 
 <h2 id="supervision">Student Supervision</h2>
-Member of 7 Ph.D. thesis committees
+Member of 8 Ph.D. thesis committees
 
 <h3>Supervision of Ph.D., M.Sc., and B.Sc. theses:</h3>
 Yulia Clausen: <i>Discourse Variability in Social Media on the Example of Tag Questions in German.</i> Ph.D., Uni Potsdam,
 in progress.  
 Berfin Akta&#351;: <i>Coreference Strategies in Social Media.</i> Ph.D., Uni Potsdam, in progress.     
    
+Sarah Ludwig: <i>Studenten, Studentinnen und Studierende:
+Wie geschlechtsneutral sind das generische Maskulinum und alternative Formen?</i> B.Sc., Uni Potsdam, 2020.   
 Luzie Ahrens: <i>Ausbreitung neuer Wörter im deutschsprachigen Raum - eine Analyse mit Twitterdaten.</i> B.Sc., Uni Potsdam, 2020.   
 Yulia Kurennaia: <i>Automatic True-False Question Generation for Educational Purposes.</i> M.Sc., Uni Potsdam, 2020.   
 Carola Nitschke: <i>Eine Untersuchung über die dialektale Sprachverwendung am Beispiel des sozialen Online-Netzwerks Facebook.</i> B.Sc., Uni Potsdam, 2020.  
