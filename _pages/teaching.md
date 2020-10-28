@@ -124,9 +124,9 @@ Member of 8 Ph.D. thesis committees
 
 <h3>Supervision of Ph.D., M.Sc., and B.Sc. theses:</h3>
 Yulia Clausen: <i>Discourse Variability in Social Media on the Example of Tag Questions in German.</i> Ph.D., Uni Potsdam,
-in progress.  
-Berfin Akta&#351;: <i>Coreference Strategies in Social Media.</i> Ph.D., Uni Potsdam, in progress.     
-   
+in progress.   
+Berfin Akta&#351;: <i>Coreference Strategies in Social Media.</i> Ph.D., Uni Potsdam, in progress.  
+
 Sarah Ludwig: <i>Studenten, Studentinnen und Studierende:
 Wie geschlechtsneutral sind das generische Maskulinum und alternative Formen?</i> B.Sc., Uni Potsdam, 2020.   
 Luzie Ahrens: <i>Ausbreitung neuer Wörter im deutschsprachigen Raum - eine Analyse mit Twitterdaten.</i> B.Sc., Uni Potsdam, 2020.   
