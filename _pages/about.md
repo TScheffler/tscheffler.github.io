@@ -12,8 +12,6 @@ redirect_from:
 
 NEWS: As of September, 2020, I am Assistant Professor for Digital Forensic Linguistics at the Ruhr-Universität Bochum.
 
-<span style="color:red">Sep. 2020: I am currently looking for a student research assistant (9 hours/week). Please ask me for details.</span> [details in German](../files/hiwi-stellenausschreibung.pdf) 
-
 
 Research Interests (incomplete list)
 =====
