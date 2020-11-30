@@ -29,10 +29,13 @@ Colloquium. June 19, 2007.</p>
 Swarthmore College Linguistics Speaker Series. March 6, 2007. 
 <a href="../papers/swarthmore07-slides.pdf">[slides .pdf]</a> </p>
 
-Workshops
+Conferences and Workshops
 -----
+(lists only those not also published as proceedings articles)
 
-<p><i>Digitale Textproduktion und Computerlinguistik - Chancen und Risiken</i>. Impulsvortrag beim <a href="https://www.uni-due.de/comein/">ComeIn Digitalisierungsprojekt</a>, Ruhr-Universität Bochum/online. September 2020.
+<p><i>Intensifiers across social media</i>. <a href="https://www.linguistweets.org/en/">Linguistweets</a> - the first international twitter conference on linguistics, Abralin, Brazil. December 2020.</p>
+
+<p><i>Digitale Textproduktion und Computerlinguistik - Chancen und Risiken</i>. Impulsvortrag beim <a href="https://www.uni-due.de/comein/">ComeIn Digitalisierungsprojekt</a>, Ruhr-Universität Bochum/online. September 2020.</p>
 
 <p><i>Explicitness and implicitness of discourse relations across
 social media.</i> Workshop <a href="https://www.angl.hu-berlin.de/news/conferences/Archive/2020/workshop-coherence-relations">"Explicit and implicit coherence relations:
