@@ -37,14 +37,18 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
   
 <h2 id="publications">Publications</h2>
 
-<p>Luca Bevacqua and <b>Tatjana Scheffler</b>. <a href="">Form Variation of Pronominal It-Clefts in Written English.</a> <i>Linguistics Vanguard</i>, to appear 2020.</p>
+<p>Luca Bevacqua and <b>Tatjana Scheffler</b>. <a href="">Form Variation of Pronominal It-Clefts in Written English.</a> <i>Linguistics Vanguard</i>, to appear 2021.</p>
+
+<p><b>Tatjana Scheffler</p>. Book review of Beißwenger/Pappert (2019) "Handeln mit Emojis: Grundriss einer Linguistik kleiner Bildzeichen in der WhatsApp-Kommunikation". <i>Journal for Media Linguistics</i>, to appear 2020.</p>
+
+<p>Anne Deremetz and <b>Tatjana Scheffler</b>. Die Retribalisierung der Gesellschaft? Transformationen von Twitter-Diskursen zu #DSGVO im Zeitverlauf. <i>Zeitschrift für Kultur- und Kollektivwissenschaft</i> 6(2), to appear 2020.</p>
 
 <p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="">Commitments in German Tag Questions: An Experimental Study.</a> In <i>Proceedings of SemDial</i>, Brandeis University, Waltham, MA, USA, 2020.</p>
 
 <p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="https://www.degruyter.com/view/j/cllt.ahead-of-print/cllt-2019-0060/cllt-2019-0060.xml?format=INT">A corpus-based analysis
   of meaning variations in German tag questions: Evidence from spoken
   and written conversational corpora.</a> <i>Corpus Linguistics and
-  Linguistic Theory</i>, To appear (Published online Feb. 20, 2020). doi:10.1515/cllt-2019-0060</p>
+  Linguistic Theory</i>, Published online Feb. 20, 2020. doi:10.1515/cllt-2019-0060</p>
 
   
 <p>Manfred Stede, <b>Tatjana Scheffler</b>, and Amália Mendes. <a
@@ -91,8 +95,8 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
   connective-lex.info.</a> In Ho-Dac & Muller (eds.): <i>Cross-Linguistic Discourse Annotation: applications and perspectives</i>, pp. 144-150. 2018.</p>
   
 <p><b>Tatjana Scheffler</b>. <a
-   href="http://www.ff.uni-lj.si/sites/default/files/Dokumenti/Knjige/e-books/investigating.pdf#page=124">Conversations on Twitter.</a> In: D. Fišer/M. Beißwenger,
-  <i><a href="https://knjigarna.ff.uni-lj.si/si/izdelek/1765/investigating-computer-mediated-coomunication/" >Investigating Computer-Mediated Communication: Corpus-Based Approaches To Language In The Digital World</a></i>, Ljubljana: University Press. ISBN 978-961-237-950-6.  2017.</p>
+   href="https://e-knjige.ff.uni-lj.si/znanstvena-zalozba/catalog/view/4/2/26-1">Conversations on Twitter.</a> In: D. Fišer/M. Beißwenger,
+  <i><a href="https://doi.org/10.4312/9789612379612" >Investigating Computer-Mediated Communication: Corpus-Based Approaches To Language In The Digital World</a></i>, Ljubljana: University Press. ISBN 978-961-237-950-6.  2017.</p>
 
   <p><b>Tatjana Scheffler</b>. <a href="http://www.ledonline.it/snippets/allegati/snippets31009.pdf" >Root infinitives on Twitter.</a> <i>Snippets</i>,
   Vol. 31. June, 2017.</p>
