@@ -39,7 +39,7 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
 
 <p>Luca Bevacqua and <b>Tatjana Scheffler</b>. <a href="">Form Variation of Pronominal It-Clefts in Written English.</a> <i>Linguistics Vanguard</i>, to appear 2021.</p>
 
-<p><b>Tatjana Scheffler</p>. Book review of Beißwenger/Pappert (2019) "Handeln mit Emojis: Grundriss einer Linguistik kleiner Bildzeichen in der WhatsApp-Kommunikation". <i>Journal for Media Linguistics</i>, to appear 2020.</p>
+<p><b>Tatjana Scheffler</b>. Book review of Beißwenger/Pappert (2019) "Handeln mit Emojis: Grundriss einer Linguistik kleiner Bildzeichen in der WhatsApp-Kommunikation". <i>Journal for Media Linguistics</i>, to appear 2020.</p>
 
 <p>Anne Deremetz and <b>Tatjana Scheffler</b>. Die Retribalisierung der Gesellschaft? Transformationen von Twitter-Diskursen zu #DSGVO im Zeitverlauf. <i>Zeitschrift für Kultur- und Kollektivwissenschaft</i> 6(2), to appear 2020.</p>
 
