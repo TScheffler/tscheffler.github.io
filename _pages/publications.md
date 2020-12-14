@@ -37,13 +37,13 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
   
 <h2 id="publications">Publications</h2>
 
-<p>Luca Bevacqua and <b>Tatjana Scheffler</b>. <a href="">Form Variation of Pronominal It-Clefts in Written English.</a> <i>Linguistics Vanguard</i>, to appear 2021.</p>
-
 <p><b>Tatjana Scheffler</b>. Book review of Beißwenger/Pappert (2019) "Handeln mit Emojis: Grundriss einer Linguistik kleiner Bildzeichen in der WhatsApp-Kommunikation". <i>Journal for Media Linguistics</i>, to appear 2020.</p>
 
 <p>Anne Deremetz and <b>Tatjana Scheffler</b>. Die Retribalisierung der Gesellschaft? Transformationen von Twitter-Diskursen zu #DSGVO im Zeitverlauf. <i>Zeitschrift für Kultur- und Kollektivwissenschaft</i> 6(2), to appear 2020.</p>
 
-<p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="">Commitments in German Tag Questions: An Experimental Study.</a> In <i>Proceedings of SemDial</i>, Brandeis University, Waltham, MA, USA, 2020.</p>
+<p>Luca Bevacqua and <b>Tatjana Scheffler</b>. <a href="https://doi.org/10.1515/lingvan-2019-0066">Form Variation of Pronominal It-Clefts in Written English.</a> <i>Linguistics Vanguard</i> 6(1), 2020.</p>
+
+<p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="http://semdial.org/anthology/Z20-Clausen_semdial_0014.pdf">Commitments in German Tag Questions: An Experimental Study.</a> In <i>Proceedings of SemDial</i>, Brandeis University, Waltham, MA, USA, 2020.</p>
 
 <p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="https://www.degruyter.com/view/j/cllt.ahead-of-print/cllt-2019-0060/cllt-2019-0060.xml?format=INT">A corpus-based analysis
   of meaning variations in German tag questions: Evidence from spoken
