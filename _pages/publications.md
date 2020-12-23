@@ -7,16 +7,6 @@ author_profile: true
 
 You can also find my papers on <a href="http://scholar.google.de/citations?user=E-br2oUAAAAJ">my Google Scholar profile</a>. I am happy to share preprints of any papers you can't find here, please send me an email.
 
-  
-<p>
-  <ul>
-    <li><a href="#publications" >publications</a></li>
-    <li><a href="#posters" >posters</a></li>
-    <li><a href="#manuscripts" >unpublished manuscripts</a></li>
-    <li><a href="#edited" >edited volumes</a></li>
-  </ul>
-</p>
-
 <p>For posters on the analysis of Twitter conversations, see
 also <a href="../twitter/index.html" >this separate page</a>.</p>
 
