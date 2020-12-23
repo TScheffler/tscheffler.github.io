@@ -10,13 +10,22 @@ redirect_from:
 
 
 
-NEWS: As of September, 2020, I am Assistant Professor for Digital Forensic Linguistics at the Ruhr-Universität Bochum.
+I am Assistant Professor for Digital Forensic Linguistics at the [Ruhr-Universität Bochum](https://www.ruhr-uni-bochum.de/).
+
+News
+====
+
+Interview im WDR 5, Scala: ["Was ist das eigentlich, Digitale Forensische Linguistik?"](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-scala-hintergrund/audio-auf-den-spuren-der-sprache-im-netz-100.html)
 
 
 Research Interests (incomplete list)
 =====
 
-**computational linguistics**: discourse modelling, discourse parsing, analysis of social media data, corpus linguistics, computational social science, Tree-Adjoining Grammar, natural language generation
+**digital forensic linguistics**: hate speech detection, analysis and detection of disinformation, authorship in social media
+
+**digital linguistics**: linguistic variability in social media, emojis, language of Twitter
+
+**computational linguistics**: discourse modelling, discourse parsing, analysis of social media data, corpus linguistics, computational social science, Tree-Adjoining Grammar
 
 **theoretical linguistics**: discourse & dialog, connectives, corpora, semantics, pragmatics, syntax-semantics interface
 
