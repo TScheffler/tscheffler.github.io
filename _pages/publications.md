@@ -12,6 +12,8 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
 
 <p>I've supervised and collected a <a href="https://qud-comp.github.io/QUD-comp/">set of cool student projects on computational
   approaches to QUDs</a>, it can be found on GitHub.</p>
+  
+<p>We maintain the public Zotero library on <a href="https://www.zotero.org/groups/2613859/linguistics_of_emojis">"Linguistics of Emojis"</a>. You can suggest additions via a form linked from the Zotero group page.</p>
 
   
 <h2>Book</h2>
@@ -289,6 +291,10 @@ F. Gödde, D. Butenkov, <b>T. Scheffler</b> and R. Roller. <a href="http://world
 
 
 <h2 id="posters">Posters (without proceedings)</h2>
+
+<p><b>Tatjana Scheffler</b> and Hannah Seemann. <a href="https://dhday3.ub.rub.de/poster_0526a912.html">Individual Linguistic Variability in Social Media.</a> Presented at the <a href="https://dhday3.ub.rub.de/"><i>Third Digital Humanities Day</i></a>, RUB, January 14-15, 2021.</p>
+
+<p>Berfin Aktaş, Yulia Clausen, <b>Tatjana Scheffler</b>, Manfred Stede. Diskursstrategien in sozialen Medien. Jahrestagung des IDS: Deutsch in Sozialen Medien.  Interaktiv – multimodal – vielfältig. 2019.</p>
 
 <p><b>Tatjana Scheffler</b>, Rike Schlüter, Manfred Stede. Discourse
 Structuring Devices on Twitter. Presented at the <i>COST TextLink
