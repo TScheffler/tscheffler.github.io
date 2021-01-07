@@ -17,6 +17,8 @@ News
 
 Interview im WDR 5, Scala: ["Was ist das eigentlich, Digitale Forensische Linguistik?"](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-scala-hintergrund/audio-auf-den-spuren-der-sprache-im-netz-100.html)
 
+We maintain the public Zotero library on ["Linguistics of Emojis"](https://www.zotero.org/groups/2613859/linguistics_of_emojis). You can suggest additions via a form linked from the Zotero group page. 
+
 
 Research Interests (incomplete list)
 =====
