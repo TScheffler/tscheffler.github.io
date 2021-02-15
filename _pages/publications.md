@@ -296,7 +296,7 @@ F. Gödde, D. Butenkov, <b>T. Scheffler</b> and R. Roller. <a href="http://world
 
 <h2 id="posters">Posters (without proceedings)</h2>
 
-<p><b>Tatjana Scheffler</b> and Hannah Seemann. <a href="https://dhday3.ub.rub.de/poster_0526a912.html">Individual Linguistic Variability in Social Media.</a> Presented at the <a href="https://dhday3.ub.rub.de/"><i>Third Digital Humanities Day</i></a>, RUB, January 14-15, 2021.</p>
+<p><b>Tatjana Scheffler</b> and Hannah Seemann. <a href="https://doi.org/10.13154/294-7871">Individual Linguistic Variability in Social Media.</a> Presented at the <a href="https://dhday3.ub.rub.de/"><i>Third Digital Humanities Day</i></a>, RUB, January 14-15, 2021. doi: https://doi.org/10.13154/294-7871</p>
 
 <p>Berfin Aktaş, Yulia Clausen, <b>Tatjana Scheffler</b>, Manfred Stede. Diskursstrategien in sozialen Medien. Jahrestagung des IDS: Deutsch in Sozialen Medien.  Interaktiv – multimodal – vielfältig. 2019.</p>
 
