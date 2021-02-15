@@ -14,8 +14,8 @@ I am always open to your suggestions for thesis or independent research topics r
 
 * forensic linguistics
 * discourse structure of social media
+* digital linguistics
 * computational social science
-* NLP for variability
 * ... and [others](https://github.com/TScheffler/Teaching/blob/master/00_themen.md)!
   
 <a href="#supervision">jump to previous student supervision</a>
@@ -39,6 +39,9 @@ ESSLLI 2019, Riga: <a href="http://esslli2019.folli.info/courses/shallow-discour
 ESSLLI 2016, Bolzano: <a href="http://esslli2016.unibz.it/?page_id=350">Natural Language Processing of Microblogs</a> (with Manfred Stede)
 
 <h3>Ruhr-Universität Bochum</h3>
+
+SoSe 2021: Dialoge auf Twitter (BA)  
+SoSe 2021: Korpuslinguistik digitaler Korpora (MA)
 
 WiSe 2020/21: Interpretation von Emojis (BA)  
 WiSe 2020/21: Linguistische Autorerkennung (MA)
@@ -120,15 +123,20 @@ Spring 2005-2007: Elementary German II (instructor: Ed Dixon); oral exam trainin
 
 
 <h2 id="supervision">Student Supervision</h2>
-Member of 8 Ph.D. thesis committees
+Member of 9 Ph.D. thesis committees
 
 <h3>Supervision of Ph.D., M.Sc., and B.Sc. theses:</h3>
+Berfin Akta&#351;: <i>Coreference Strategies in Social Media.</i> Ph.D., Uni Potsdam, in progress.  
 Yulia Clausen: <i>Discourse Variability in Social Media on the Example of Tag Questions in German.</i> Ph.D., Uni Potsdam,
 in progress.   
-Berfin Akta&#351;: <i>Coreference Strategies in Social Media.</i> Ph.D., Uni Potsdam, in progress.  
+Oliver Deck: tbd. Ph.D., Ruhr-Universität Bochum, in progress.
+
+Tunç Yilmaz: <i>Song Authorship Attribution: A Lyrics and Rhyme Based Approach.</i> M.Sc., Uni Potsdam, 2021.
+Md. Mahmud Uz Zaman: <i>A museum chatbot for open-ended and factoid questions.</i> M.Sc., Uni Potsdam, 2021.
+Philip Gottschall: <i>Der Einfluss von linguistischen Merkmalen auf die Klassifikation von Hate Speech in Social Media Texten.</i> B.Sc., Uni Potsdam, 2021.
 
 Sarah Ludwig: <i>Studenten, Studentinnen und Studierende:
-Wie geschlechtsneutral sind das generische Maskulinum und alternative Formen?</i> B.Sc., Uni Potsdam, 2020.   
+Wie geschlechtsneutral sind das generische Maskulinum und alternative Formen?</i> B.Sc., Uni Potsdam, <b>2020</b>.   
 Luzie Ahrens: <i>Ausbreitung neuer Wörter im deutschsprachigen Raum - eine Analyse mit Twitterdaten.</i> B.Sc., Uni Potsdam, 2020.   
 Yulia Kurennaia: <i>Automatic True-False Question Generation for Educational Purposes.</i> M.Sc., Uni Potsdam, 2020.   
 Carola Nitschke: <i>Eine Untersuchung über die dialektale Sprachverwendung am Beispiel des sozialen Online-Netzwerks Facebook.</i> B.Sc., Uni Potsdam, 2020.  
