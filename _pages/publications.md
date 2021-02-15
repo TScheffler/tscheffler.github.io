@@ -29,7 +29,11 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
   
 <h2 id="publications">Publications</h2>
 
-<p>Anne Deremetz and <b>Tatjana Scheffler</b>. Die Retribalisierung der Gesellschaft? Transformationen von Twitter-Diskursen zu #DSGVO im Zeitverlauf. <i>Zeitschrift für Kultur- und Kollektivwissenschaft</i> 6(2), to appear 2020.</p>
+<p>Md. Mahmud Uz Zaman, Stefan Schaffer and <b>Tatjana Scheffler</b>. <a href="http://www.essv.de/essv2021/pdfs/35_mahmud_v2.pdf">Comparing BERT with an intent based question answering setup for open-ended questions in the museum domain.</a> <i>Proceedings of the 32. Konferenz Elektronische Sprachsignalverarbeitung</i>, Online/Berlin, Germany, 2021.</p>
+
+<p>Md. Mahmud Uz Zaman, Stefan Schaffer and <b>Tatjana Scheffler</b>. Factoid and Open-Ended Question Answering with BERT in the Museum Domain. In <i>Proceedings of Qurator</i>, Online/Berlin, Germany, 2021.</p>
+
+<p>Anne Deremetz and <b>Tatjana Scheffler</b>. <a href="https://doi.org/10.14361/zkkw-2020-060209">Die Retribalisierung der Gesellschaft? Transformationen von Twitter-Diskursen zu #DSGVO im Zeitverlauf.</a> <i>Zeitschrift für Kultur- und Kollektivwissenschaft</i> 6(2), 2020. doi: https://doi.org/10.14361/zkkw-2020-060209</p>
 
 <p><b>Tatjana Scheffler</b>. <a href="https://doi.org/10.21248/jfml.2020.40">Book review of Beißwenger/Pappert (2019) "Handeln mit Emojis: Grundriss einer Linguistik kleiner Bildzeichen in der WhatsApp-Kommunikation"</a>. <i>Journal for Media Linguistics</i> 3(1), 2020. doi: https://doi.org/10.21248/jfml.2020.40</p>
 
