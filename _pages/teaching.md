@@ -129,11 +129,11 @@ Member of 9 Ph.D. thesis committees
 Berfin Akta&#351;: <i>Coreference Strategies in Social Media.</i> Ph.D., Uni Potsdam, in progress.  
 Yulia Clausen: <i>Discourse Variability in Social Media on the Example of Tag Questions in German.</i> Ph.D., Uni Potsdam,
 in progress.   
-Oliver Deck: tbd. Ph.D., Ruhr-Universität Bochum, in progress.
+Oliver Deck: tbd. Ph.D., Ruhr-Universität Bochum, in progress.  
 
-Tunç Yilmaz: <i>Song Authorship Attribution: A Lyrics and Rhyme Based Approach.</i> M.Sc., Uni Potsdam, 2021.
-Md. Mahmud Uz Zaman: <i>A museum chatbot for open-ended and factoid questions.</i> M.Sc., Uni Potsdam, 2021.
-Philip Gottschall: <i>Der Einfluss von linguistischen Merkmalen auf die Klassifikation von Hate Speech in Social Media Texten.</i> B.Sc., Uni Potsdam, 2021.
+Tunç Yilmaz: <i>Song Authorship Attribution: A Lyrics and Rhyme Based Approach.</i> M.Sc., Uni Potsdam, 2021.  
+Md. Mahmud Uz Zaman: <i>A museum chatbot for open-ended and factoid questions.</i> M.Sc., Uni Potsdam, 2021.  
+Philip Gottschall: <i>Der Einfluss von linguistischen Merkmalen auf die Klassifikation von Hate Speech in Social Media Texten.</i> B.Sc., Uni Potsdam, 2021.  
 
 Sarah Ludwig: <i>Studenten, Studentinnen und Studierende:
 Wie geschlechtsneutral sind das generische Maskulinum und alternative Formen?</i> B.Sc., Uni Potsdam, <b>2020</b>.   
