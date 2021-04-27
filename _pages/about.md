@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am Assistant Professor for Digital Forensic Linguistics at the [Ruhr-Universität Bochum](https://www.ruhr-uni-bochum.de/).
+I am [Assistant Professor for Digital Forensic Linguistics](http://staff.germanistik.rub.de/digitale-forensische-linguistik/) at the [Ruhr-Universität Bochum](https://www.ruhr-uni-bochum.de/).
 
 News
 ====
@@ -23,7 +23,7 @@ We maintain the public Zotero library on ["Linguistics of Emojis"](https://www.z
 Research Interests (incomplete list)
 =====
 
-**digital forensic linguistics**: hate speech detection, analysis and detection of disinformation, authorship in social media
+**digital forensic linguistics**: harmful speech, analysis and detection of disinformation, authorship in social media
 
 **digital linguistics**: linguistic variability in social media, emojis, language of Twitter
 
