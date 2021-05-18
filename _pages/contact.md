@@ -16,7 +16,7 @@ by appointment via Zoom, please contact me by email
 Office
 ----
 
-[GC 7/138](https://www.ruhr-uni-bochum.de/anreise/download/RUB-Lageplan.pdf)
+[GB 5/157](https://www.ruhr-uni-bochum.de/anreise/download/RUB-Lageplan.pdf)
 
 Postal address
 ----
