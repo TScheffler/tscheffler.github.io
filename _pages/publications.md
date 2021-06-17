@@ -35,6 +35,8 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
 
 <p>Anne Deremetz and <b>Tatjana Scheffler</b>. <a href="https://doi.org/10.14361/zkkw-2020-060209">Die Retribalisierung der Gesellschaft? Transformationen von Twitter-Diskursen zu #DSGVO im Zeitverlauf.</a> <i>Zeitschrift für Kultur- und Kollektivwissenschaft</i> 6(2), 2020. doi: https://doi.org/10.14361/zkkw-2020-060209</p>
 
+<p>Berfin Aktaş, Yulia Clausen, and <b>Tatjana Scheffler</b>. "Diskursstrategien in Sozialen Medien". In K. Marx, H. Lobin, A. Schmidt (eds.): <i>Deutsch in Sozialen Medien</i>, Berlin, Boston: De Gruyter, 2020, pp. 369-372. doi: https://doi.org/10.1515/9783110679885-023</p>
+
 <p><b>Tatjana Scheffler</b>. <a href="https://doi.org/10.21248/jfml.2020.40">Book review of Beißwenger/Pappert (2019) "Handeln mit Emojis: Grundriss einer Linguistik kleiner Bildzeichen in der WhatsApp-Kommunikation"</a>. <i>Journal for Media Linguistics</i> 3(1), 2020. doi: https://doi.org/10.21248/jfml.2020.40</p>
 
 <p>Luca Bevacqua and <b>Tatjana Scheffler</b>. <a href="https://doi.org/10.1515/lingvan-2019-0066">Form Variation of Pronominal It-Clefts in Written English.</a> <i>Linguistics Vanguard</i> 6(1), 2020. doi: https://doi.org/10.1515/lingvan-2019-0066</p>
@@ -91,7 +93,7 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
   connective-lex.info.</a> In Ho-Dac & Muller (eds.): <i>Cross-Linguistic Discourse Annotation: applications and perspectives</i>, pp. 144-150. 2018.</p>
   
 <p><b>Tatjana Scheffler</b>. <a
-   href="https://e-knjige.ff.uni-lj.si/znanstvena-zalozba/catalog/view/4/2/26-1">Conversations on Twitter.</a> In: D. Fišer/M. Beißwenger,
+   href="https://e-knjige.ff.uni-lj.si/znanstvena-zalozba/catalog/view/4/2/26-1">Conversations on Twitter.</a> In: D. Fišer/M. Beißwenger (eds.),
   <i><a href="https://doi.org/10.4312/9789612379612" >Investigating Computer-Mediated Communication: Corpus-Based Approaches To Language In The Digital World</a></i>, Ljubljana: University Press. ISBN 978-961-237-950-6.  2017.</p>
 
   <p><b>Tatjana Scheffler</b>. <a href="http://www.ledonline.it/snippets/allegati/snippets31009.pdf" >Root infinitives on Twitter.</a> <i>Snippets</i>,
