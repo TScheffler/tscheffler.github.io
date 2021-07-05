@@ -29,6 +29,10 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
   
 <h2 id="publications">Publications</h2>
 
+<p><b>Tatjana Scheffler</b>, Veronika Solopova, and Mihaela Popa-Wyatt. The Telegram Chronicles of Online Harm. <i>Journal of Open Humanities Data</i>, 7, p.8, 2021. doi: http://doi.org/10.5334/johd.31</p>
+
+<p>Veronika Solopova, <b>Tatjana Scheffler</b>, and Mihaela Popa-Wyatt. A Telegram Corpus for Hate Speech, Offensive Language, and Online Harm. <i>Journal of Open Humanities Data</i>, 7, p.9, 2021. doi: http://doi.org/10.5334/johd.32 repository location: <a href="https://osf.io/ck3gd/">https://osf.io/ck3gd/</a></p>
+
 <p>Md. Mahmud Uz Zaman, Stefan Schaffer and <b>Tatjana Scheffler</b>. <a href="http://www.essv.de/essv2021/pdfs/35_mahmud_v2.pdf">Comparing BERT with an intent based question answering setup for open-ended questions in the museum domain.</a> <i>Proceedings of the 32. Konferenz Elektronische Sprachsignalverarbeitung</i>, Online/Berlin, Germany, 2021.</p>
 
 <p>Md. Mahmud Uz Zaman, Stefan Schaffer and <b>Tatjana Scheffler</b>. <a href="../papers/mahmudEtal2021-qurator.pdf">Factoid and Open-Ended Question Answering with BERT in the Museum Domain.</a> In <i>Proceedings of Qurator</i>, Online/Berlin, Germany, 2021.</p>
