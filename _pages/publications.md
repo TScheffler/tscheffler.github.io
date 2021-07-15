@@ -29,9 +29,9 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
   
 <h2 id="publications">Publications</h2>
 
-<p><b>Tatjana Scheffler</b>, Veronika Solopova, and Mihaela Popa-Wyatt. The Telegram Chronicles of Online Harm. <i>Journal of Open Humanities Data</i>, 7, p.8, 2021. doi: http://doi.org/10.5334/johd.31</p>
+<p><b>Tatjana Scheffler</b>, Veronika Solopova, and Mihaela Popa-Wyatt. <a href="http://doi.org/10.5334/johd.31">The Telegram Chronicles of Online Harm.</a> <i>Journal of Open Humanities Data</i>, 7, p.8, 2021. doi: http://doi.org/10.5334/johd.31</p>
 
-<p>Veronika Solopova, <b>Tatjana Scheffler</b>, and Mihaela Popa-Wyatt. A Telegram Corpus for Hate Speech, Offensive Language, and Online Harm. <i>Journal of Open Humanities Data</i>, 7, p.9, 2021. doi: http://doi.org/10.5334/johd.32 repository location: <a href="https://osf.io/ck3gd/">https://osf.io/ck3gd/</a></p>
+<p>Veronika Solopova, <b>Tatjana Scheffler</b>, and Mihaela Popa-Wyatt. <a href="http://doi.org/10.5334/johd.32">A Telegram Corpus for Hate Speech, Offensive Language, and Online Harm.</a> <i>Journal of Open Humanities Data</i>, 7, p.9, 2021. doi: http://doi.org/10.5334/johd.32 repository location: <a href="https://osf.io/ck3gd/">https://osf.io/ck3gd/</a></p>
 
 <p>Md. Mahmud Uz Zaman, Stefan Schaffer and <b>Tatjana Scheffler</b>. <a href="http://www.essv.de/essv2021/pdfs/35_mahmud_v2.pdf">Comparing BERT with an intent based question answering setup for open-ended questions in the museum domain.</a> <i>Proceedings of the 32. Konferenz Elektronische Sprachsignalverarbeitung</i>, Online/Berlin, Germany, 2021.</p>
 
@@ -47,10 +47,10 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
 
 <p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="http://semdial.org/anthology/Z20-Clausen_semdial_0014.pdf">Commitments in German Tag Questions: An Experimental Study.</a> In <i>Proceedings of SemDial</i>, Brandeis University, Waltham, MA, USA, 2020.</p>
 
-<p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="https://www.degruyter.com/view/j/cllt.ahead-of-print/cllt-2019-0060/cllt-2019-0060.xml?format=INT">A corpus-based analysis
+<p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="https://doi.org/10.1515/cllt-2019-0060">A corpus-based analysis
   of meaning variations in German tag questions: Evidence from spoken
   and written conversational corpora.</a> <i>Corpus Linguistics and
-  Linguistic Theory</i>, Published online Feb. 20, 2020. doi:10.1515/cllt-2019-0060</p>
+  Linguistic Theory</i>, Published online Feb. 20, 2020. doi: https://doi.org/10.1515/cllt-2019-0060</p>
 
   
 <p>Manfred Stede, <b>Tatjana Scheffler</b>, and Amália Mendes. <a
