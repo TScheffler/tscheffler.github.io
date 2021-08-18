@@ -165,18 +165,16 @@ Anna Barthel: <i>Auf den Punkt gebracht. Neuartige Interpunktionsverwendung in m
 Maxi Drescher: <i>Spontansprache in Twitter-Konversationen am Beispiel von Frageanhängseln</i> B.Sc., Uni Potsdam, 2016.  
 Sophia Leontinowa: <i>Linguistische Variabilität und Nicht-Standardsprache in Sozialen Medien: Vergleich von deutschen Twitterdiskursen und Blogs.</i> B.Sc., Uni Potsdam, 2016.  
   
-Elena Zarisheva: <i>Dialog act recognition for Twitter
-conversations.</i> M.Sc., Hasso Plattner-Institute Potsdam, <b>2015</b>.  
+Elena Zarisheva: <i>Dialog act recognition for Twitter conversations.</i> M.Sc., Hasso Plattner-Institute Potsdam, <b>2015</b>.   
 Laura Stelter: <i>Diskursfunktion von URLs in deutschen Twitterkonversationen.</i> B.Sc., Uni Potsdam, 2015.  
-Antonia Golz: <i>'Wohl ja' wird ja wohl auch gehen: Zur  Kombinationsfähigkeit von 'wohl' und 'ja'.</i> B.Sc., Uni Potsdam, 2015.  
-Frank Bublitz: <i>Qualität von Twitterdiskursen.</i> Diplom (Master's Thesis), Uni Potsdam, <b>2014</b>.
+Antonia Golz: <i>'Wohl ja' wird ja wohl auch gehen: Zur  Kombinationsfähigkeit von 'wohl' und 'ja'.</i> B.Sc., Uni Potsdam, 2015.    
+Frank Bublitz: <i>Qualität von Twitterdiskursen.</i> Diplom (Master's Thesis), Uni Potsdam, <b>2014</b>.  
 Norman Rosner: <i>Klassifikation von Themen in deutschen Twitter-Daten.</i> Diplom (Master's Thesis), Uni Potsdam, <b>2013</b>.  
 Benjamin Hoffmann: <i>Entwicklung und Evaluation eines multimodalen Empfehlungssystems für Lokationen.</i> B.Sc., FH Brandenburg, <b>2012</b>.  
 Paul Lehmann: <i>Matching und Visualisierung von Points of Interest aus sozialen Daten</i> B.Sc., FH Brandenburg, <b>2011</b>.  
 Jana G&ouml;tze: <i>Prototyping a User Simulation for a Spoken Dialog System.</i> <i>Diplomarbeit</i> (Master's thesis), Uni Potsdam, <b>2010</b>.  
 Marco Bierbach: <i>Extraktion von Spracherkennergrammatiken aus einem Korpus.</i> Bachelor thesis, FH Brandenburg, 2010.  
-Kira Eberle: <i>Extraktion von Ressourcen aus dem Korpus des Sprachdialogsystems
-Let's Go!</i> Bachelor thesis, Uni Potsdam, May 2010.  
+Kira Eberle: <i>Extraktion von Ressourcen aus dem Korpus des Sprachdialogsystems Let's Go!</i> Bachelor thesis, Uni Potsdam, May 2010.  
 Katarina Birghan: <i>Inbetriebnahme, Konfigurierung und Evaluation des Vorverarbeitungsmoduls zur Segmentierung von Dialogakten mittels Pausenerkennung.</i> Bachelor thesis, FH Brandenburg, May <b>2009</b>.
 
 ... plus several interns and student research assistants
