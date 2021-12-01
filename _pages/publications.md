@@ -29,6 +29,10 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
   
 <h2 id="publications">Publications</h2>
 
+<p><b>Tatjana Scheffler</b>, Lasse Brandt, Marie de la Fuente, and Ivan Nenchev. The processing of emoji-word substitutions: A self-paced-reading study. <i>Computers and Human Behavior</i> 127. 2022. doi: https://doi.org/10.1016/j.chb.2021.107076 Repository location: https://osf.io/d34y5/ </p>
+
+<p><b>Tatjana Scheffler</b>, Veronika Solopova, Olha Zolotarenko, and Mariia Razno. A computational lexicon of Ukrainian discourse connectives. In: <i>Proceedings of the 1st Ukrainian Natural Language Processing Workshop</i> (UNLP 2021), ICTERI, Kharkiv, Ukraine/Online. 2021. http://icteri.org/icteri-2021/proceedings/volume-2/202110692.pdf</p>
+
 <p><b>Tatjana Scheffler</b>, Veronika Solopova, and Mihaela Popa-Wyatt. <a href="http://doi.org/10.5334/johd.31">The Telegram Chronicles of Online Harm.</a> <i>Journal of Open Humanities Data</i>, 7, p.8, 2021. doi: http://doi.org/10.5334/johd.31</p>
 
 <p>Veronika Solopova, <b>Tatjana Scheffler</b>, and Mihaela Popa-Wyatt. <a href="http://doi.org/10.5334/johd.32">A Telegram Corpus for Hate Speech, Offensive Language, and Online Harm.</a> <i>Journal of Open Humanities Data</i>, 7, p.9, 2021. doi: http://doi.org/10.5334/johd.32 repository location: <a href="https://osf.io/ck3gd/">https://osf.io/ck3gd/</a></p>
