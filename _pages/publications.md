@@ -29,9 +29,14 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
   
 <h2 id="publications">Publications</h2>
 
+<p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="https://doi.org/10.1515/cllt-2019-0060">A corpus-based analysis
+  of meaning variations in German tag questions: Evidence from spoken
+  and written conversational corpora.</a> <i>Corpus Linguistics and
+  Linguistic Theory</i> 18(1), 2022. doi: https://doi.org/10.1515/cllt-2019-0060</p>
+  
 <p><b>Tatjana Scheffler</b>, Lasse Brandt, Marie de la Fuente, and Ivan Nenchev. The processing of emoji-word substitutions: A self-paced-reading study. <i>Computers and Human Behavior</i> 127. 2022. doi: <a href="https://doi.org/10.1016/j.chb.2021.107076">https://doi.org/10.1016/j.chb.2021.107076</a> Repository location: <a href="https://osf.io/d34y5/">https://osf.io/d34y5/</a> </p>
 
-<p><b>Tatjana Scheffler</b>, Veronika Solopova, Olha Zolotarenko, and Mariia Razno. A computational lexicon of Ukrainian discourse connectives. In: <i>Proceedings of the 1st Ukrainian Natural Language Processing Workshop</i> (UNLP 2021), ICTERI, Kharkiv, Ukraine/Online. 2021. <a href="http://icteri.org/icteri-2021/proceedings/volume-2/202110692.pdf">http://icteri.org/icteri-2021/proceedings/volume-2/202110692.pdf</a></p>
+<p><b>Tatjana Scheffler</b>, Veronika Solopova, Olha Zolotarenko, and Mariia Razno. A computational lexicon of Ukrainian discourse connectives. In: <i>Proceedings of the 1st Ukrainian Natural Language Processing Workshop</i> (UNLP 2021), Kharkiv, Ukraine/Online. 2021. <a href="http://icteri.org/icteri-2021/proceedings/volume-2/202110692.pdf">http://icteri.org/icteri-2021/proceedings/volume-2/202110692.pdf</a></p>
 
 <p><b>Tatjana Scheffler</b>, Veronika Solopova, and Mihaela Popa-Wyatt. <a href="http://doi.org/10.5334/johd.31">The Telegram Chronicles of Online Harm.</a> <i>Journal of Open Humanities Data</i>, 7, p.8, 2021. doi: <a href="http://doi.org/10.5334/johd.31">http://doi.org/10.5334/johd.31</a></p>
 
@@ -51,12 +56,6 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
 
 <p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="http://semdial.org/anthology/Z20-Clausen_semdial_0014.pdf">Commitments in German Tag Questions: An Experimental Study.</a> In <i>Proceedings of SemDial</i>, Brandeis University, Waltham, MA, USA, 2020.</p>
 
-<p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="https://doi.org/10.1515/cllt-2019-0060">A corpus-based analysis
-  of meaning variations in German tag questions: Evidence from spoken
-  and written conversational corpora.</a> <i>Corpus Linguistics and
-  Linguistic Theory</i>, Published online Feb. 20, 2020. doi: https://doi.org/10.1515/cllt-2019-0060</p>
-
-  
 <p>Manfred Stede, <b>Tatjana Scheffler</b>, and Amália Mendes. <a
   href="https://journals.openedition.org/discours/pdf/10098" >Connective-lex: A web-based multilingual lexical resource
   for connectives.</a>  <i>Discours</i>, 2019. </p>
