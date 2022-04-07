@@ -32,7 +32,7 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
 <p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="https://doi.org/10.1515/cllt-2019-0060">A corpus-based analysis
   of meaning variations in German tag questions: Evidence from spoken
   and written conversational corpora.</a> <i>Corpus Linguistics and
-  Linguistic Theory</i> 18(1), 2022. doi: https://doi.org/10.1515/cllt-2019-0060</p>
+  Linguistic Theory</i> 18(1):1-31, 2022. doi: https://doi.org/10.1515/cllt-2019-0060</p>
   
 <p><b>Tatjana Scheffler</b>, Lasse Brandt, Marie de la Fuente, and Ivan Nenchev. The processing of emoji-word substitutions: A self-paced-reading study. <i>Computers and Human Behavior</i> 127. 2022. doi: <a href="https://doi.org/10.1016/j.chb.2021.107076">https://doi.org/10.1016/j.chb.2021.107076</a> Repository location: <a href="https://osf.io/d34y5/">https://osf.io/d34y5/</a> </p>
 
