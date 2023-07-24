@@ -33,4 +33,4 @@ Contact
 
 * Phone: +49 234 32 21471
 * Email: firstname.lastname@rub.de
-* Twitter: [@tschfflr](https://www.twitter.com/tschfflr)
+* Mastodon: [@tschfflr@fediscience.org](https://fediscience.org/@tschfflr)
