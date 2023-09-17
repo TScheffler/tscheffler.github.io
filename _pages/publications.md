@@ -129,7 +129,7 @@ In: <i>Proceedings of the CoNLL-16 Shared Task</i>, Berlin,
   
 <p><b>Tatjana Scheffler</b> and Christopher CM Kyba. <a href="https://doi.org/10.1609/icwsm.v10i1.14789">Measuring Social Jetlag in Twitter Data.</a> In:
   <i>Proceedings of the Tenth International AAAI Conference on Web and Social Media (ICWSM 2016)</i>, AAAI, Köln,
-  Germany. 2016. doi: 10.1609/icwsm.v10i1.14789  <a href="twitter/Posters/2016ICWSM-circadian-poster.pdf">[poster]</a></p>
+  Germany. 2016. doi: 10.1609/icwsm.v10i1.14789  <a href="../twitter/Posters/2016ICWSM-circadian-poster.pdf">[poster]</a></p>
   
 <p><b>Tatjana Scheffler</b> and Manfred Stede. <a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/274_Paper.pdf"
   >Adding Semantic Relations to a Large-Coverage Connective Lexicon of German.</a> In:
@@ -311,12 +311,12 @@ F. Gödde, D. Butenkov, <b>T. Scheffler</b> and R. Roller. <a href="http://world
 
 <p><b>Tatjana Scheffler</b>, Rike Schlüter, Manfred Stede. Discourse
 Structuring Devices on Twitter. Presented at the <i>COST TextLink
-Second Action Conference</i>, Budapest, Hungary, April 11-14, 2016. <a href="twitter/Posters/2016Textlink-Twittercoherence.pdf">[.pdf]</a> </p>
+Second Action Conference</i>, Budapest, Hungary, April 11-14, 2016. <a href="../twitter/Posters/2016Textlink-Twittercoherence.pdf">[.pdf]</a> </p>
 
 <p><b>Tatjana Scheffler</b>. Deutsche Twitterdaten - Korpuserstellung
 und Analyse. Presented at the <i>DGfS-CL Postersession, Jahrestagung der
 Deutschen Gesellschaft für Sprachwissenschaft</i>, Universität Potsdam,
-Germany, March 14, 2013. <a href="twitter/Posters/2013-dgfs-cl-korpuserstellung.pdf">[.pdf]</a> </p>
+Germany, March 14, 2013. <a href="../twitter/Posters/2013-dgfs-cl-korpuserstellung.pdf">[.pdf]</a> </p>
 
 <p><b>Tatjana Scheffler</b> and Joel C. Wallenberg.
 Formalizing Construction Grammar in TAG. 
