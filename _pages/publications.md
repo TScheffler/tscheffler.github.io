@@ -127,9 +127,9 @@ In: <i>Proceedings of the CoNLL-16 Shared Task</i>, Berlin,
   href="../papers/K16-2002.Presentation.pdf">[slides]</a><br/><a href="https://hub.docker.com/r/oslopots/oslopots-conll-2016/" >[code]</a>
   </p>
   
-<p><b>Tatjana Scheffler</b> and Christopher CM Kyba. <a href="http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13080">Measuring Social Jetlag in Twitter Data.</a> In:
+<p><b>Tatjana Scheffler</b> and Christopher CM Kyba. <a href="https://doi.org/10.1609/icwsm.v10i1.14789">Measuring Social Jetlag in Twitter Data.</a> In:
   <i>Proceedings of the Tenth International AAAI Conference on Web and Social Media (ICWSM 2016)</i>, AAAI, Köln,
-  Germany. 2016. <a href="twitter/Posters/2016ICWSM-circadian-poster.pdf">[poster]</a></p>
+  Germany. 2016. doi: 10.1609/icwsm.v10i1.14789  <a href="twitter/Posters/2016ICWSM-circadian-poster.pdf">[poster]</a></p>
   
 <p><b>Tatjana Scheffler</b> and Manfred Stede. <a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/274_Paper.pdf"
   >Adding Semantic Relations to a Large-Coverage Connective Lexicon of German.</a> In:
