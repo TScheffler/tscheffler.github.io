@@ -13,7 +13,7 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
 <p>I've supervised and collected a <a href="https://qud-comp.github.io/QUD-comp/">set of cool student projects on computational
   approaches to QUDs</a>, it can be found on GitHub.</p>
   
-<p>We maintain the public Zotero library on <a href="https://www.zotero.org/groups/2613859/linguistics_of_emojis">"Linguistics of Emojis"</a>. You can suggest additions via a form linked from the Zotero group page.</p>
+<p>I maintain the public Zotero library on <a href="https://www.zotero.org/groups/2613859/linguistics_of_emojis">"Linguistics of Emojis"</a>. You can suggest additions via a form linked from the Zotero group page.</p>
 
   
 <h2>Book</h2>
