@@ -29,11 +29,20 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
   
 <h2 id="publications">Publications</h2>
 
+<p><b>Tatjana Scheffler</b> and Ivan Nenchev. Affective, semantic, frequency, and descriptive norms for 107 face emojis. <i>Behavior Research Methods</i>. forthcoming 2024. Repository location: <a href="https://osf.io/vbmpj/">https://osf.io/vbmpj/</a> </p>
+<p>Lea Fricke, Patrick G. Grosz, and <b>Tatjana Scheffler</b>. Semantic differences in visually similar face emojis. <i>Language and Cognition</i>. 2024. <a href="https://doi.org/10.1017/langcog.2024.12">https://doi.org/10.1017/langcog.2024.12</a> Repository location: <a href="https://osf.io/k2t9p/">https://osf.io/k2t9p/</a> </p>
+<p><b>Tatjana Scheffler</b> and Sophia A. Malamud. “Won’t you?” reverse-polarity question tags in American English as a window into the semantics-pragmatics interface. <i>Linguistics and Philosophy</i> 46, pp. 1285–1327. 2023. <a href="https://doi.org/10.1007/s10988-023-09385-2">https://doi.org/10.1007/s10988-023-09385-2</a> </p>
+<p><b>Tatjana Scheffler</b>, Michael Richter, Roland van Hout. Tracing and classifying German intensifiers via information theory. <i>Language Sciences</i> 96. 2023. <a href="https://doi.org/10.1016/j.langsci.2022.101535 Repository location: <a href="https://osf.io/69x8b/">https://osf.io/69x8b/</a> </p>
+<p><b>Tatjana Scheffler</b>, Hannah Seemann, Lesley-Ann Kern. The medium is not the message: Individual level register variation in blogs vs. tweets. <i>Register Studies</i> 4(2). 2022. <a href="https://doi.org/10.1075/rs.22009.sch">https://doi.org/10.1075/rs.22009.sch</a> Repository location: <a href="https://osf.io/3j2d6/">https://osf.io/3j2d6/</a> </p>
+<p>Tunç Yılmaz and <b>Tatjana Scheffler</b>. Song authorship attribution: A lyrics and rhyme based approach. <i>International Journal of Digital Humanities</i>. 2022. <a href="https://doi.org/10.1007/s42803-022-00050-x">https://doi.org/10.1007/s42803-022-00050-x</a> </p>
+
 <p>Yulia Clausen and <b>Tatjana Scheffler</b>. <a href="https://doi.org/10.1515/cllt-2019-0060">A corpus-based analysis
   of meaning variations in German tag questions: Evidence from spoken
   and written conversational corpora.</a> <i>Corpus Linguistics and
   Linguistic Theory</i> 18(1):1-31, 2022. doi: https://doi.org/10.1515/cllt-2019-0060</p>
   
+<p><b>Tatjana Scheffler</b>, Lasse Brandt, Marie de la Fuente, Ivan Nenchev. Stimulus data and experimental design for a self-paced reading study on emoji-word substitutions. <i>Data in Brief</i> 108399. 2022. <a href="https://doi.org/10.1016/j.dib.2022.108399">https://doi.org/10.1016/j.dib.2022.108399</a> </p>
+
 <p><b>Tatjana Scheffler</b>, Lasse Brandt, Marie de la Fuente, and Ivan Nenchev. The processing of emoji-word substitutions: A self-paced-reading study. <i>Computers and Human Behavior</i> 127. 2022. doi: <a href="https://doi.org/10.1016/j.chb.2021.107076">https://doi.org/10.1016/j.chb.2021.107076</a> Repository location: <a href="https://osf.io/d34y5/">https://osf.io/d34y5/</a> </p>
 
 <p><b>Tatjana Scheffler</b>, Veronika Solopova, Olha Zolotarenko, and Mariia Razno. A computational lexicon of Ukrainian discourse connectives. In: <i>Proceedings of the 1st Ukrainian Natural Language Processing Workshop</i> (UNLP 2021), Kharkiv, Ukraine/Online. 2021. <a href="http://icteri.org/icteri-2021/proceedings/volume-2/202110692.pdf">http://icteri.org/icteri-2021/proceedings/volume-2/202110692.pdf</a></p>
