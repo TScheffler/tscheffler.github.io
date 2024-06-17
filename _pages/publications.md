@@ -53,6 +53,10 @@ also <a href="../twitter/index.html" >this separate page</a>.</p>
 <p>Sara Shahmohammadi, Hannah J. Seemann, Manfred Stede, and Tatjana Scheffler. Encoding Discourse Structure: Comparison of RST and QUD. In: Proceedings of CODI, pp. 89–98, colocated with ACL. 2023. https://doi.org/10.18653/v1/2023.codi-1.11 </p>
 <p>Hannah Seemann and Tatjana Scheffler. Differentiating Social Media Texts via Clustering. In: Proceedings of the CHR Conference 2022, pp. 177–188. 2022. https://ceur-ws.org/Vol-3290/short_paper5903.pdf </p>
 
+<p>Tatjana Scheffler*, Veronika Solopova* and Mihaela Popa-Wyatt (* co-first authors). Verbreitungsmechanismen schädigender Sprache im Netz: Anatomie zweier Shitstorms. In: R. Gaderer/V. Grömmke (eds.), Hass teilen: Tribunale und Affekte virtueller Streitwelten. Bielefeld: transcript (Virtuelle Lebenswelten 3). 2024.</p>
+<p>Tatjana Scheffler. 💪🖤💛: Emojis und Gruppenidentität auf Twitter. In: S. Meier-Vieracker (ed.), Reingegrätscht: Eine kleine Linguistik des Fußballs. Tübingen: Narr. 2024.</p>
+<p>Tatjana Scheffler, Lesley-Ann Kern and Hannah Seemann. Individuelle linguistische Variabilität in sozialen Medien. In: M. Kupietz/T. Schmidt (eds.), Neue Entwicklungen in der Korpuslandschaft der Germanistik: Beiträge zur IDS-Methodenmesse 2022. (= Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache (CLIP) 11). Tübingen: Narr. 2023.</p>
+
 
 <p><b>Tatjana Scheffler</b>, Veronika Solopova, Olha Zolotarenko, and Mariia Razno. A computational lexicon of Ukrainian discourse connectives. In: <i>Proceedings of the 1st Ukrainian Natural Language Processing Workshop</i> (UNLP 2021), Kharkiv, Ukraine/Online. 2021. <a href="http://icteri.org/icteri-2021/proceedings/volume-2/202110692.pdf">http://icteri.org/icteri-2021/proceedings/volume-2/202110692.pdf</a></p>
 
