@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Face-Emoji Data</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style_sheet.css">
+</head>
+<body>
+
+
+
+
+<!-- Navigation -->
+
+<div class="header" id="header">
+    <br>
+    <div>
+      <span>
+        <button class="custom-button" onclick="location.href = 'home.html';" > <h4>Face-Emoji Data</h4> </button>
+        <button class="custom-button" onclick="location.href = 'ratings.html';" > Ratings </button>
+        <button class="custom-button" onclick="location.href = 'descriptions.html';" > Descriptions </button>
+        <button class="custom-button" onclick="location.href = 'visualisations_ratings.html';" > Visualisations </button>
+        <button class="custom-button" onclick="location.href = 'paper.html';" > Paper </button>
+        <button class="custom-button" onclick="location.href = 'contact.html';" > Contact </button>
+
+
+
+
+    </div>
+    <br>
+</div>
+
+<br><br>
+
+
+<div class="content">
+    <div class="content-container">
+<h2>Affective and Semantic Norms for Face Emojis</h2> <br><br>
+
+
+
+<h3> About </h3> <br>
+<p>
+  We introduce a novel dataset of <b>affective, semantic, and descriptive norms for all facial emojis</b> at the point of data collection. We gathered and examined subjective ratings of emojis from 138 German speakers along five essential dimensions: valence, arousal, familiarity, clarity, and visual complexity. Additionally, we provide absolute frequency counts of emoji use, drawn from an extensive Twitter corpus, as well as a much smaller WhatsApp database. Our results replicate the well-established quadratic relationship between arousal and valence of lexical items, also known for words. We also report associations among the variables: for example, the subjective familiarity of an emoji is strongly correlated with its usage frequency, and positively associated with its emotional valence and clarity of meaning. We establish the meanings associated with face emojis, by asking participants for up to three descriptions for each emoji. Using this linguistic data, we computed vector embeddings for each emoji, enabling an exploration of their distribution within the semantic space. Our description-based emoji vector embeddings not only capture typical meaning components of emojis, such as their valence, but also surpass simple definitions and direct emoji2vec models in reflecting the semantic relationship between emojis and words. Our dataset stands out due to its robust reliability and validity. This new semantic norm for face emojis impacts the future design of highly controlled experiments focused on the cognitive processing of emojis, their lexical representation, and their linguistic properties.
+</p><br>
+      
+<h3> What you find here </h3> <br>
+<p>
+  This website presents an overview of the data we collected for each face emoji. For the full experiment, all stimuli, results, and analyses, please refer to the <a href="https://osf.io/vbmpj">OSF repository</a>.
+</p>
+
+<br>
+<div class="img-wrapper">
+    <img src="material/visualisations/embeddings/t-sne-descriptions-embeddings-screenshot.png" class="responsive-image" alt="Emoji Embeddings T-SNE">
+</div>
+<p><div align="center"> (face emojis by semantic similarity)</div></p><br>
+
+
+<br>
+<div class="footer" id="footer">
+  <br>
+  <div class="left-content">
+    <p>
+            Authors: Tatjana Scheffler and Ivan Nenchev <br>
+            Contact: <a href="mailto:tatjana.scheffler@rub.de">tatjana.scheffler@rub.de</a> <br>
+    </p>
+    </div>
+    <div class="right-content">
+      <a href="https://doi.org/10.3758/s13428-024-02444-x"> Click here for the Paper! </a> <br>
+      <a href="https://osf.io/vbmpj"> Click here for the Online Repository! </a>
+    </div>
+    </div>
+  <br>
+</div>
+
+
+
+</div></div>
+
+
+<!-- for sticky header -->
+<script>
+    window.onscroll = function() {myFunction()};
+    var header = document.getElementById("myHeader");
+    var sticky = header.offsetTop;
+    function myFunction() {
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+    }
+</script>
+    
+    </body>
+    </html>
+    

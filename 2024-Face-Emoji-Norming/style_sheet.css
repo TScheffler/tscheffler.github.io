@@ -1,0 +1,160 @@
+.body {font-family: "Arial", Georgia, Serif;}
+.h1, h2, h3, h4, h5, h6 {
+    font-family: "Arial", Georgia, Serif;
+    letter-spacing: 5px;
+    color: #222222;
+}
+.p {
+    font-family: 'Helvetica', monospace;
+    letter-spacing: 5px;
+    color: #222222;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a:link {
+    color: #4b4b5c
+}
+a:visited {
+    color: #4b4b5c;
+  }
+
+
+
+.content {
+    margin-top: 60px; 
+}
+.content-container {
+    padding: 16px; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+}
+
+
+
+
+.custom-button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #ffffff ;
+    color: #222222;
+    border: none;
+    cursor: pointer;
+    font-family: 'Helvetica', monospace;
+    font-weight: bold;
+}
+.custom-button:hover {
+    background-color: #f7f6f9 ;
+}
+
+
+
+.header {
+    padding: 10px 16px;
+    background: #ffffff;
+    color: #222222;
+    position: fixed; 
+    top: 0;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    z-index: 1000; 
+}
+.content {
+    padding: 16px; 
+    margin-top: 60px; /
+}
+.sticky + .content {
+    padding-top: 102px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.footer {
+    display: flex;
+    padding: 10px 16px;
+    background: #ffffff;
+    color: #222222;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    z-index: 1000; 
+    align-items: center;
+}
+.left-content {
+    flex: 1;
+}
+.right-content {
+    flex: 1;
+    text-align: right; 
+}
+
+
+
+
+.vis_select {
+    padding: 10px 16px;
+    background: #ffffff;
+    color: #222222;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    z-index: 1000; 
+    text-align: center;
+}
+
+
+
+.img-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 10px 16px;
+    max-width: 1200px; 
+    margin: 0 auto; 
+  }
+img.responsive-image {
+    width: 100%; 
+    height: auto; 
+    max-width: 100%; 
+    display: block; 
+}
+
+
+
+
+
+table {
+    width: auto;
+    border-collapse: collapse;
+    font-size: 12px;
+    table-layout: auto;
+    font-family: "Arial", Georgia, Serif;
+}
+th {
+    position: sticky; 
+    top: 80px; 
+    z-index: 1; 
+    background-color: #ffffff; 
+    
+}
+
+th, td {
+    border: 2px solid #90909c;
+    padding: 4px;
+    text-align: left;
+    background-color: white;
+    word-wrap: break-word;
+    white-space: normal; 
+}
+.table-container {
+    display: flex;
+    flex-direction: column;
+}
+table tr:hover td {
+    background-color: #f7f6f9;
+}

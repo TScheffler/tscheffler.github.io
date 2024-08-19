@@ -1,0 +1,134 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Face-Emoji Data</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style_sheet.css">
+</head>
+<body>
+
+
+
+
+<!-- Navigation -->
+
+<div class="header" id="header">
+    <br>
+    <div>
+      <span>
+        <button class="custom-button" onclick="location.href = 'home.html';" > <h4>Face-Emoji Data</h4> </button>
+        <button class="custom-button" onclick="location.href = 'ratings.html';" > Ratings </button>
+        <button class="custom-button" onclick="location.href = 'descriptions.html';" > Descriptions </button>
+        <button class="custom-button" onclick="location.href = 'visualisations_ratings.html';" > Visualisations </button>
+        <button class="custom-button" onclick="location.href = 'paper.html';" > Paper </button>
+        <button class="custom-button" onclick="location.href = 'contact.html';" > Contact </button>
+
+
+
+    </div>
+    <br>
+</div>
+
+<br><br>
+
+
+<div class="content">
+    <div class="content-container">
+<h2>Visualisations</h2> <br><br>
+
+
+<p>
+  Below you can find some visualizations of our findings. By clicking on 'Ratings', 'Embeddings', or 'Correlations', you can navigate to the different subpages. <br>
+  For more  information, visit our online repository: <a href="https://osf.io/vbmpj"> https://osf.io/vbmpj </a>
+</p>
+
+<br>
+<div class="vis_select" id="Visualisation_Selection">
+    <button class="custom-button" onclick="location.href = 'visualisations_ratings.html';" > Ratings </button>
+    <button class="custom-button" onclick="location.href = 'visualisations_embeddings.html';" > Embeddings </button>
+    <button class="custom-button" onclick="location.href = 'visualisations_correlations.html';" > Correlations </button>
+</div>
+
+
+
+<br> <br>
+
+
+<p>Frequencies in a large Twitter corpus:</p>
+<div class="img-wrapper">
+  <img src="material/visualisations/ratings/frequency-all.png" class="responsive-image" alt="Frequency">
+</div>
+<p>Familiarity Ratings:</p>
+<div class="img-wrapper">
+  <img src="material/visualisations/ratings/familiarity-all.png" class="responsive-image" alt="Familiarity">
+</div>
+<p>Clarity Ratings:</p>
+<div class="img-wrapper">
+  <img src="material/visualisations/ratings/clarity-all.png" class="responsive-image" alt="Clarity">
+</div>
+<p>Arousal Ratings:</p>
+<div class="img-wrapper">
+  <img src="material/visualisations/ratings/arousal-all.png" class="responsive-image" alt="Arousal">
+</div>
+<p>Valence Ratings:</p>
+<div class="img-wrapper">
+  <img src="material/visualisations/ratings/valence-all.png" class="responsive-image" alt="Valence">
+</div>
+<p>Complexity Ratings:</p>
+<div class="img-wrapper">
+  <img src="material/visualisations/ratings/complexity-all.png" class="responsive-image" alt="Complexity">
+</div>
+<p>Density:</p>
+<div class="img-wrapper">
+  <img style="width: 60%" src="material/visualisations/ratings/ratings-density.png" class="responsive-image" alt="Density">
+</div>
+
+
+
+
+
+
+
+
+
+<br>
+<div class="footer" id="footer">
+  <br>
+  <div class="left-content">
+    <p>
+            Authors: Tatjana Scheffler and Ivan Nenchev <br>
+            Contact: <a href="mailto:tatjana.scheffler@rub.de">tatjana.scheffler@rub.de</a> <br>
+    </p>
+    </div>
+    <div class="right-content">
+      <a href="https://doi.org/10.3758/s13428-024-02444-x"> Click here for the Paper! </a> <br>
+      <a href="https://osf.io/vbmpj"> Click here for the Online Repository! </a>
+    </div>
+    </div>
+  <br>
+</div>
+
+
+
+</div></div>
+
+
+<!-- for sticky header -->
+<script>
+    window.onscroll = function() {myFunction()};
+    var header = document.getElementById("myHeader");
+    var sticky = header.offsetTop;
+    function myFunction() {
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+    }
+</script>
+    
+    </body>
+    </html>
+    
