@@ -42,27 +42,27 @@
 <p>
 The following table provides information on the ratings (on a scale of 0-100) given to each of the face emojis. <br>
 A click on the Unicode name will lead you to the <a href="https://emojipedia.org/"> Emojipedia </a> entry of the emoji. <br>
-For more  information, visit our online repository: <a href="https://osf.io/vbmpj"> https://osf.io/vbmpj </a>
+      For more  information, visit our online repository: <a href="https://osf.io/vbmpj"> https://osf.io/vbmpj </a><br><br>
+Click on a column title to <b>sort the table</b> by that column.
 </p>
 <br>
 
 
 
 <div class="table-container">
-    <table class="dataframe">
-        
+  <table id="rating-table" class="dataframe">        
   <thead>
     <tr style="text-align: right;">
-      <th>Unicode Name</th>
+      <th onclick="sortTable(0)">Unicode Name ↕️</th>
       <th>Emoji</th>
-      <th>Twitter Frequency</th>
-      <th>WhatsApp Frequency</th>
-      <th>Clarity Mean</th>
-      <th>Arousal Mean</th>
-      <th>Valence Mean</th>
-      <th>Familiarity Mean</th>
-      <th>Complexity Mean</th>
-      <th>Number of Ratings</th>
+      <th onclick="sortTable(2)">Twitter Frequency ↕️</th>
+      <th onclick="sortTable(3)">WhatsApp Frequency ↕️</th>
+      <th onclick="sortTable(4)">Clarity Mean ↕️</th>
+      <th onclick="sortTable(5)">Arousal Mean ↕️</th>
+      <th onclick="sortTable(6)">Valence Mean ↕️</th>
+      <th onclick="sortTable(7)">Familiarity Mean ↕️</th>
+      <th onclick="sortTable(8)">Complexity Mean ↕️</th>
+      <th onclick="sortTable(9)">Number of Ratings ↕️</th>
     </tr>
   </thead>
   <tbody>
@@ -1395,6 +1395,65 @@ For more  information, visit our online repository: <a href="https://osf.io/vbmp
       }
     }
 </script>
+
+<!-- for sortable table  -->
+<script>
+  function sortTable(n) {
+    var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+    table = document.getElementById("rating-table");
+    switching = true;
+    dir = "asc"; 
+    while (switching) {
+        switching = false;
+        rows = table.rows;
+        for (i = 1; i < (rows.length - 1); i++) {
+            shouldSwitch = false;
+            x = rows[i].getElementsByTagName("TD")[n];
+            y = rows[i + 1].getElementsByTagName("TD")[n];
+            var xContent = x.innerHTML.toLowerCase();
+            var yContent = y.innerHTML.toLowerCase();
+            var xValue = parseFloat(xContent.replace(/,/g, '')); 
+            var yValue = parseFloat(yContent.replace(/,/g, ''));
+            if (!isNaN(xValue) && !isNaN(yValue)) {
+                if (dir == "asc") {
+                    if (xValue > yValue) {
+                        shouldSwitch = true;
+                        break;
+                    }
+                } else if (dir == "desc") {
+                    if (xValue < yValue) {
+                        shouldSwitch = true;
+                        break;
+                    }
+                }
+            } else {
+                if (dir == "asc") {
+                    if (xContent > yContent) {
+                        shouldSwitch = true;
+                        break;
+                    }
+                } else if (dir == "desc") {
+                    if (xContent < yContent) {
+                        shouldSwitch = true;
+                        break;
+                    }
+                }
+            }
+        }
+        if (shouldSwitch) {
+            rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+            switching = true;
+            switchcount++;
+        } else {
+            if (switchcount == 0 && dir == "asc") {
+                dir = "desc";
+                switching = true;
+            }
+        }
+    }
+}
+  </script>
+    
     
     </body>
     </html>

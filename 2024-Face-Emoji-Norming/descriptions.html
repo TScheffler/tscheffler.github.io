@@ -40,9 +40,10 @@
 
 
 <p>
-  The following table provides information on the description words given to each of the face emojis. The "variation" score indicates how similar the named descriptions are to each other (lower = more similar, higher = higher semantic variation). <br>
-  A click on the Unicode name will lead you to the <a href="https://emojipedia.org/"> Emojipedia </a> entry of the emoji. <br>
-  For more  information, visit our online repository: <a href="https://osf.io/vbmpj"> https://osf.io/vbmpj </a>
+  The following table provides information on the description words given to each of the face emojis. <br>
+  A click on the Unicode name will lead you to the <a href="https://emojipedia.org/"> emojipedia </a> entry of the emoji. <br>
+  For more  information, visit our online repository: <a href="https://osf.io/vbmpj/?view_only=4b23cd1161da4af2a650efaa0580b47f"> https://osf.io/vbmpj/?view_only=4b23cd1161da4af2a650efaa0580b47f </a><br><br>
+Click on a column title to <b>sort the table</b> by that column.
   </p>
 <br>
 
@@ -50,15 +51,15 @@
 
 
 <div class="table-container">
-    <table class="dataframe">
+    <table id="descriptions-table" class="dataframe">
       <thead>
         <tr style="text-align: right;">
-          <th>Unicode Name</th>
+          <th onclick="sortTable(0)">Unicode Name ↕️</th>
           <th>Emoji</th>
           <th>Descriptions unfiltered</th>
           <th>English translation</th>
           <th>Description lemma counts</th>
-          <th>Variation</th>
+          <th onclick="sortTable(5)">Variation ↕️</th>
         </tr>
       </thead>
       <tbody>
@@ -940,7 +941,7 @@
     </div>
     <div class="right-content">
       <a href="https://doi.org/10.3758/s13428-024-02444-x"> Click here for the Paper! </a> <br>
-      <a href="https://osf.io/vbmpj"> Click here for the Online Repository! </a>
+      <a href="https://osf.io/vbmpj/?view_only=4b23cd1161da4af2a650efaa0580b47f"> Click here for the Online Repository! </a>
     </div>
     </div>
   <br>
@@ -964,6 +965,65 @@
     }
 </script>
     
+
+
+<!-- for sortable table  -->
+<script>
+  function sortTable(n) {
+    var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+    table = document.getElementById("descriptions-table");
+    switching = true;
+    dir = "asc"; 
+    while (switching) {
+        switching = false;
+        rows = table.rows;
+        for (i = 1; i < (rows.length - 1); i++) {
+            shouldSwitch = false;
+            x = rows[i].getElementsByTagName("TD")[n];
+            y = rows[i + 1].getElementsByTagName("TD")[n];
+            var xContent = x.innerHTML.toLowerCase();
+            var yContent = y.innerHTML.toLowerCase();
+            var xValue = parseFloat(xContent.replace(/,/g, '')); 
+            var yValue = parseFloat(yContent.replace(/,/g, ''));
+            if (!isNaN(xValue) && !isNaN(yValue)) {
+                if (dir == "asc") {
+                    if (xValue > yValue) {
+                        shouldSwitch = true;
+                        break;
+                    }
+                } else if (dir == "desc") {
+                    if (xValue < yValue) {
+                        shouldSwitch = true;
+                        break;
+                    }
+                }
+            } else {
+                if (dir == "asc") {
+                    if (xContent > yContent) {
+                        shouldSwitch = true;
+                        break;
+                    }
+                } else if (dir == "desc") {
+                    if (xContent < yContent) {
+                        shouldSwitch = true;
+                        break;
+                    }
+                }
+            }
+        }
+        if (shouldSwitch) {
+            rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+            switching = true;
+            switchcount++;
+        } else {
+            if (switchcount == 0 && dir == "asc") {
+                dir = "desc";
+                switching = true;
+            }
+        }
+    }
+}
+  </script>
     </body>
     </html>
     
